@@ -1,0 +1,253 @@
+abiword abiword_48
+accessories-calculator calc galculator gnome-calculator kcalc speedcrunch categories:applications-mathematics
+accessories-character-map gnome-character-map gucharmap kcharselect gnome-characters
+accessories-dictionary gnome-dictionary stardict goldendict audiobook xfce4-dict
+accessories-document-viewer acroread AdobeReader AdobeReader8 AdobeReader9 AdobeReader10 xreader
+accessories-text-editor geany gedit gnome-word kate kedit l3afpad leafpad medit mousepad text-editor xfce-edit
+activity-log-manager cs-retro
+adobe-air AdobeAIR
+amazon-mp3-store-source amazon-store wwwamazoncom-www.amazon.com wwwamazoncouk-www.amazon.co.uk wwwamazonfr-www.amazon.fr
+application-default-icon application-x-executable CMakeSetup
+audacity aqualung
+audacious status:audacious-panel
+autoplus easylife
+avant-window-navigator cs-applets
+awn-settings cs-panel
+bitcoin bitcoin-128 bitcoin-qt
+bleachbit csd-housekeeping
+bluefish bluefish-icon mate-panel-fish
+brasero nautilus-cd-burner k3b xfburn asunder stock_xfburn
+bug-buddy abrt gnome-abrt categories:applications-debugging
+bzr bzr-icon-64
+caffeine xfce4-time-out-plugin
+ccsm simple-ccsm csd-cursor
+cheese org.gnome.Cheese
+chromium-browser chromium google-chrome
+clementine status:clementine-panel
+clipgrab ClipGrab clipgrab-qt5
+clock cairo-clock gnome-panel-clock gnome-set-time rclock stock_alarm time time-admin xfce4-clock xfce-schedule gnome-clocks mate-panel-clock clock-applet status:appointment-soon
+config-users kuser system-config-users susers system-users cs-user-accounts yast-users
+cs-keyboard csd-keyboard
+cs-backgrounds csd-background
+cs-display csd-orientation csd-xrandr
+cs-mouse csd-mouse
+cs-power csd-power
+cs-notifications csd-print-notifications
+cs-tablet csd-wacom
+deja-dup timeshift
+deluge deluge-torrent ktorrent
+desktop-effects wmtweaks
+docky plank
+dropbox caja-dropbox
+easytag EasyTAG_icon
+emacs emacs23
+empathy org.gnome.Empathy
+eog gthumb gwenview gpicview ristretto mate-eyes-applet eom pix xviewer categories:applications-viewers 
+eufloria eufloriahd
+evernote nixnote
+evince atril epdfview qpdfview
+evolution evolution-mail kmail sylpheed claws-mail xfce-mail applications-mail yast-mail
+evolution-calendar gnome-calendar office-calendar office-date plan system-config-date ximian-evolution-calendar korganizer xfcalendar vcalendar org.gnome.Calendar categories:applications-mail mimetypes:gnome-mime-text-x-vcalendar mimetypes:stock_calendar mimetypes:vcalendar mimetypes:x-office-calendar 
+evolution-tasks accessories-clipboard gtg xfce5-clipman-plugin clipit-trayicon parcellite xfce4-clipman-plugin cs-clipboard csd-clipboard actions:go-today actions:stock_task actions:stock_task-assigned actions:stock_task-assigned-to actions:stock_todo actions:view-calendar-day actions:view-calendar-list actions:view-calendar-month actions:view-calendar-week actions:view-calendar-workweek
+exaile status:exaile-play
+facebook goa-account-facebook
+fbreader FBReader Buka
+file-roller utilities-file-archiver xarchiver engrampa
+firefox mozilla-firefox firefox-3.0 firefox-3.5 firefox-4.0
+five-or-more klines
+flash adobeflashplugin flash-player-properties flashplayer
+flashplayer adobe-flashplayer
+flickr postr kflickr goa-account-flickr
+fluxgui status:fluxgui-panel
+four-in-a-row kfourinline
+gcolor2 gcolor3 nl.hjdskes.gcolor3 org.hjdskes.gcolor3 actions:gtk-select-color
+gconf-editor cs-general categories:preferences-system
+gdm-setup gdm lightdm-settings lightdm-gtk-greeter-settings user_auth preferences-system-login cs-login yast-bootloader
+gimp accessories-painting mtpaint categories:applications-painting
+gksu-root-terminal gksu-debian categories:cs-cat-admin
+glade glade-3 gazpacho gazpacho-icon categories:applications-development-web categories:applications-interfacedesign
+glippy status:glippy-panel
+gloobus gloobus-preview covergloobus
+gmail gmailwatcher checkgmail
+gnome-about-logo gnome-logo-icon-transparent
+gnome-activity-journal zeitgeist
+gnome-aisleriot gnome-freecell gnome-hearts kpatience categories:applications-cardgames
+gnome-chess chess pychess categories:applications-strategygames
+gnome-contacts addressbook office-address-book actions:address-book-new mimetypes:x-office-address-book
+gnome-display-properties display-capplet preferences-desktop-display system-config-displayca mate-preferences-desktop-display msd-xrandr cinnamon-preferences-desktop-display cs-display
+gnome-lockscreen cs-screensaver csd-screensaver-proxy
+gnome-mahjongg kmahjongg mahjongg
+gnome-maps org.gnome.Maps google-maps googlemaps
+gnome-mines kmines
+gnome-nettool zenmap mate-netspeed-applet
+gnome-nibbles nibbles
+gnome-panel mate-panel xfce4-panel
+gnome-panel-launcher gnome-desktop-item-edit preferences-desktop-launch-feedback mate-desktop-item-edit mate-panel-launcher cinnamon-panel-launcher
+gnome-quadrapassel quadrapassel kblocks categories:applications-arcadegames
+gnome-robots killbots categories:applications-actiongames
+gnome-screenshot gnome-photos applets-screenshooter ksnapshot screenie screenie-qt
+gnome-session session-properties xfce4-session mate-session-properties cinnamon-session-properties
+gnome-sticky-notes-applet evolution-memos gnome-note gnote sticky-notes tomboy-note xfce4-notes-plugin bijiben mate-sticky-notes-applet org.gnome.bijiben tomboy knotes xpad cs-desklets actions:stock_insert-note actions:stock_notes
+gnome-sudoku ksudoku
+gnome-tali kiriki tali categories:applications-boardgames
+gnome-todo org.gnome.Todo
+gnumeric webservice-office-zoho-sheet
+goa-panel goa-account
+google goa-account-google
+google-chrome google-chrome-unstable
+googleearth google-earth
+googlehangouts google-hangouts
+googlekeep google-keep
+googlemusicmanager google-music-manager
+googleplaymovies google-play-movies
+googleplus google-plus
+googlewebdesigner google-webdesigner
+gparted mate-disk-usage-analyzer partitionmanager yast-disk
+gravit-designer appimagekit-gravit-designer 
+guake guake-notification guake-prefs
+half-life half-life2 steam_icon_70 steam_icon_280 steam_icon_360
+half-life2 steam_icon_220 steam_icon_380 steam_icon_420 steam_icon_340
+hamster hamster-applet hamster-indicator hamster-time-tracker
+handbrake-gtk hb-icon
+hardinfo sysprof-icon mate-sensors-applet xfce4-cpugraph-plugin xfce4-cpufreq-plugin xfce-sensors mate-inhibit-applet lshw
+help-browser browser-help gnochm gnome-help gnome-unknown gtk-help help khelpcenter stock_help stock_unknown susehelpcenter xfce-man xfce_unknown yast-support
+homebank grisbi
+iagno kreversi
+ibus ibus-setup
+im-chooser eekboard cs-input-method
+imagemagick display.im6
+indicator-weather org.gnome.Weather
+intel-linux-graphics intel-linux-graphics-installer
+intellij-idea intellij_idea intellij-idea-ce intellij-idea-community intellij-idea-ultimate-edition intellij idea-ultimate idea
+jdownloader status:jdownloader-panel
+jockey jockey-kde categories:applications-electronics mimetypes:application-x-firmware cs-drivers
+keepass keepass2
+keepassx keepassx2 keepassxc
+keepassxc keepassxc-unlocked
+keepassxc-dark keepassxc-locked
+kopete yast-messages
+lastfm last-fm lastfm-audioscrobbler as-icon as-powered
+leafpad kate
+library-internet-radio gnomeradio kradio kradio4 radio
+libreoffice-base libreoffice3-base libreoffice34-base
+libreoffice-calc libreoffice3-calc libreoffice34-calc
+libreoffice-draw libreoffice3-draw libreoffice34-draw
+libreoffice-impress libreoffice3-impress libreoffice34-impress
+libreoffice-main libreoffice-startcenter libreoffice-template libreoffice3-template libreoffice34-template libreoffice3-startcenter libreoffice34-startcenter libreoffice-math
+libreoffice-math libreoffice3-math libreoffice34-math
+libreoffice-writer libreoffice3-writer libreoffice34-writer
+liferea internet-news-reader akregator rssowl news-feed
+logview logviewer utilities-log-viewer
+lollypop org.gnome.Lollypop
+lugaru lugaru-hd
+mail-notification mailnag
+mame mameexecutor
+mate desktop-environment-mate places:start-here-mate
+matlab matlab-desktop
+media-player-banshee banshee banshee-1 status:media-player-banshee-panel
+mendeley mendeleydesktop
+menu-editor alacarte gnome-gmenu drakmenustyle xfce4-menueditor mozo menulibre
+minitunes itunes
+miro miro-guide-source
+mono mono-runtime-common
+monodevelop categories:applications-monodevelopment
+mpd cantata
+mplayer gnome-mplayer kmplayer kplayer mpv smplayer
+muse-sequencer muse muse_icon
+nautilus-actions nautilus-actions-config-tool
+nvidia-settings nvidia-current-settings nvidia-ddm-mx
+obs obs-studio
+ooo-base ooo-base3.0 openofficeorg3.0-base openofficeorg3-base openofficeorg-base
+ooo-calc ooo-calc24 ooo-calc2 ooo-calc3.0 openofficeorg24-calc openofficeorg3.0-calc openofficeorg3-calc openofficeorg-calc
+ooo-draw ooo-draw3.0 openofficeorg3.0-draw openofficeorg3-draw openofficeorg-draw
+ooo-impress ooo-impress24 ooo-impress2 ooo-impress3.0 openofficeorg24-impress openofficeorg3.0-impress openofficeorg3-impress openofficeorg-impress
+ooo-math ooo-math3.0 openofficeorg3.0-math openofficeorg3-math openofficeorg-math
+ooo-printeradmin openofficeorg3.0-printeradmin openofficeorg3-printeradmin openofficeorg-printeradmin libreoffice-printeradmin libreoffice3-printeradmin  libreoffice34-printeradmin
+ooo-template ooo-template3.0 openofficeorg3.0-template openofficeorg3-template openofficeorg-template
+ooo-writer office-writer ooo-writer24 ooo-writer2 ooo-writer3.0 openofficeorg24-writer openofficeorg3.0-writer openofficeorg3-writer openofficeorg-writer
+openjdk-6 openjdk-7 openjdk-8 openjdk-9 java-1.8.0 sun-java6 sun-java7 sun-java sun-javaws sun-jcontrol system-switch-java javaws java9-openjdk java8-openjdk java7-openjdk categories:applications-java
+opera opera-browser
+opera-widget-manager opera-widget
+palimpsest gnome-device-manager gnome-disks mate-disk gsmartcontrol disk-manager
+partner preferences-management-service
+picasa picasa32x32 picasa-fontcfg
+pitivi avidemux
+plex plexhometheater plexmediamanager
+pocket goa-account-pocket
+podcast library-podcast gpodder
+poedit gnome-translate cs-region
+portal steam_icon_400
+preferences-color gnome-color-manager cinnamon-preferences-color cs-color csd-color
+preferences-desktop-accessibility accessibility-directory access ax-applet gnome-settings-accessibility-technologies orca mate-ax-applet cs-universal-access csd-a11y-keyboard csd-a11y-settings
+preferences-desktop-default-applications gnome-settings-default-applications cs-default-applications
+preferences-desktop-keyboard preferences-desktop-keyboard-shortcuts
+preferences-desktop-keyboard-shortcuts key_bindings ktouch klavaro gnome-settings-keybindings csd-media-keys yast-keyboard
+preferences-desktop-locale config-language locale cs-language yast-language
+preferences-desktop-remote-desktop gdm-xnest gnome-remote-desktop krdc krfb remmina tsclient vinagre yast-nfs yast-remote yast-samba-client yast-samba-server
+preferences-desktop-screensaver kscreensaver screensaver xscreensaver
+preferences-desktop-sound gnome-audio gnome-settings-sound gnome-sound-properties gnome-volume-control multimedia-volume-control preferences-desktop-multimedia preferences-sound xfce-sound xfce4-sound xfce4-mixer volume-knob multimedia knotify kcmsound gnome-mixer arts cs-sound csd-sound
+preferences-desktop-theme gnome-settings-theme style xfce-ui xfce4-appearance-settings cs-themes
+preferences-desktop-wallpaper background gnome-settings-background wallpaper xfce4-backdrop
+preferences-plugin yast-addon
+preferences-system-bluetooth bluetooth bluetooth-48 bluetoothradio blueman blueradio blueradio-48 bt-logo devices:blueman-device cs-bluetooth
+preferences-system-firewall gufw gufw_menu ufw-frontends firestarter cs-firewall yast-firewall
+preferences-system-network yast-lan
+preferences-system-time accessories-clock cinnamon-preferences-system-time cs-date-time csd-datetime yast-timezone
+preferences-system-windows gnome-window-manager kcmkwm kwin xfwm4 window-manager mate-panel-window-list mate-panel-window-menu cs-windows
+pyrenamer gprename
+qbittorrent qbittorrent-tray qbittorrent-tray-light qbittorrent-tray-dark
+qtcreator creator creator-qt4 QtProject-qtcreator qtcreator_logo_32 qtassistant qtdesigner qtlinguist qtqdbusviewer
+qtassistant assistant assistant-qt4
+qtdesigner designer designer-qt4 QtProject-designer qt4logo
+qtlinguist linguist linguist-qt4
+qtqdbusviewer qdbusviewer qdbusviewer-qt4
+rhythmbox gmusicbrowser gnome-music
+screenruler-icon screenruler xmeasure
+software-properties edit-urpm-sources gpk-repo pk-package-sources x-system-software-sources status:aptdaemon-update-cache status:aptdaemon-working
+softwarecenter org.gnome.Software
+softwarecenter-archlinux softwarecenter
+soundconverter oggconvert
+spotify spotify-linux-48x48 spotify-linux-512x512
+sqlitebrowser mysql-workbench
+steam steampowered
+stock_keyring badge-small keyring-manager password revelation seahorse seahorse-preferences activity-log-manager gksu preferences-system-privacy yast-security status:dialog-password
+synapse status:synapse-panel
+synaptic gnome-app-install gnome-package system-installer system-software-install system-installer system-software-installer drakstats gdebi gdeb gnome-apt kentoo kpackage kynpatic package-manager-icon pirut porthole rpmdrake update-notifier yumex status:aptdaemon-download
+system-file-manager file-manager kfm nautilus redhat-filemanager xfce-filemanager caja Thunar thunar mate-panel-drawer sunflower org.gnome.Nautilus actions:mail-archive
+team-fortress-2 team-fortress steam_icon_20 steam_icon_440
+teeworlds steam_icon_380840
+texstudio texmaker
+thunderbird mozilla-thunderbird thunderbird-icon
+time-admin config-date preferences-system-time clocks timer-applet xfce4-timer orage_globaltime org.gnome.clocks mx-clocky
+tomboy status:tomboy-panel
+tor-browser tor-browser-en
+totem kaffeine mplayer parole org.gnome.Totem xplayer
+tracker categories:applications-adventuregames
+tvtime me-tv freetuxtv devices:tv status:me-tv-panel
+twitter twitux gtwitter goa-account-twitter Twitter-twitter.com status:applications-microblogging-panel
+ubuntuone ubuntuone-client ubuntuone-installer
+uget uget-icon status:uget-tray-default
+umusicstore musicstore_icon
+update-manager mandrivaupdate system-software-update gpk-prefs pup zen-icon status:aptdaemon-upgrade yast-online_update
+usb-creator-gtk usb-creator
+user-info system-config-authentication text-x-vcard contact-new
+usermount mm
+utilities-system-monitor gnome-monitor gnome-system-monitor htop ksysguard mate-cpu-frequency-applet mate-power-statistics
+utilities-terminal bash Etermutilities-terminal gnome-eterm gnome-term gnome-terminal gnome-xterm guake hotwire konsole lxterminal openterm terminal terminator tilda xfce-terminal xterm yakuake
+vim gvim
+virtualbox virtualbox-ose VBox
+vivaldi vivaldi-stable vivaldi-snapshot
+web-browser browser gnome-web-browser redhat-web-browser internet-web-browser categories:applications-webbrowsers yast-inetd
+wireshark hi48-app-wireshark
+workspace-switcher gnome-panel-workspace-switcher xfce4-workspaces mate-panel-workspace-switcher
+Wunderlist wunderlist
+wxbanker gnucash-icon mate-invest-applet emblems:emblem-sales 
+xchat xchat-gnome xchat-mini smuxi-frontend-gnome polari hexchat status:xchat-panel
+xfce4-appfinder mate-system-log
+xfce4-whiskermenu xfce4-panel-menu places:start-here-xfce4
+xiphos bibletime
+xterm xterm_32x32 xterm-color_32x32 xterm_48x48 xterm-color_48x48
+yahoo goa-account-yahoo
+yast yast-sysconfig
+youtube minitube
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m11 1v1h-2c-5 0-7 3.12-7 7v1h-1v3h1v2h1v-2h1v-3h-1v-1c0-3.88 2-6 7-6h1v1h3v-1h1v-1h-1v-1h-3zm0 4v1c-3.84 0-4.72 1.19-4.93 4h-1.07v3h1v2h1v-2h1v-3h-0.834c0.356-2.61 1.42-2.96 3.83-2.99v0.992h3v-1h1v-1h-1v-1h-3z" fill="#bebebe"/>
+</svg>

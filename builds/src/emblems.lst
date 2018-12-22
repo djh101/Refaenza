@@ -1,0 +1,7 @@
+emblem-important emblem-danger important
+emblem-mail apps:evolution-mail apps:kmail apps:sylpheed apps:claws-mail apps:xfce-mail categories:applications-mail
+emblem-readonly emblem-nowrite emblem-dropbox-unsyncable
+emblem-shared apps:preferences-system-sharing
+emblem-ubuntuone-synchronized emblem-default
+emblem-unreadable emblem-noread
+

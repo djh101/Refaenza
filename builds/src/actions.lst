@@ -1,0 +1,145 @@
+add-files-to-archive tap-create
+add-folder-to-archive
+address-book-new stock_new-address-book
+application-exit exit gtk-quit xfce-system-exit
+appointment-new appointment stock_new-appointment
+bell stock_bell
+bookmark-new bookmark_add bookmark-add bookmark_list_add stock_add-bookmark stock_help-add-bookmark bookmarks_list_add stock_thunar-shortcuts
+call-stop call-end
+color-picker color-select gtk-color-picker gtk-select-color apps:preferences-color
+contact-list stock_contact-list
+contact-new stock_new-bcard
+dialog-apply gtk-apply stock_calc-accept stock_mail-filters-apply stock_mark
+dialog-close window-close geany-close-all gtk-close paint-none stock_close
+dialog-ok gtk-ok ok games-endturn object-select
+document-import document-import-ocal
+document-new file_new gtk-new stock_new-text filenew gtk-file
+document-open fileopen gtk-open
+document-open-recent status:system-file-progress-panel status:nautilus-progress-info-panel status:system-file-manager-panel
+document-page-setup stock_print-setup gtk-page-setup
+document-print fileprint gtk-print stock_print
+document-print-preview gtk-print-preview preview-file stock_print-preview filequickprint
+document-properties bonobo-component-browser gtk-properties stock_file-properties stock_folder-properties stock_properties stock_file-properites
+document-revert gtk-revert-to-saved-ltr gtk-revert-to-saved-rtl revert
+document-save filesave gtk-save stock_save browser-download
+document-save-as filesaveas gtk-save-as stock_save-as
+document-save-all geany-save-all
+document-send blueman-send-file send-to
+edit-clear editclear gtk-clear locationbar-erase
+edit-copy editcopy gtk-copy stock_copy xml-node-duplicate 
+edit-cut editcut gtk-cut stock_cut
+edit-delete editdelete gtk-delete gtk-remove meld-change-delete remove stock_delete
+edit-paste editpaste gtk-paste stock_paste
+edit-find filefind find gtk-find stock_search
+edit-find-replace gtk-find-and-replace stock_search-and-replace
+edit-redo edit-undo-rtl gtk-redo-ltr redo stock_redo
+edit-select-all gtk-select-all stock_select-all
+edit-undo edit-redo-rtl gtk-undo-ltr undo stock_undo
+exchange-positions exchange-positions-clockwise exchange-positions-zorder
+extract-archive cab_extract tap-extract-to tap-extract
+font-select dialog-text-and-font gtk-select-font
+format-indent-less format-indent-more-rtl gnome-stock-text-unindent gtk-indent-rtl gtk-unindent-ltr stock_text_unindent
+format-indent-more format-indent-less-rtl gnome-stock-text-indent gtk-indent-ltr gtk-unindent-rtl stock_text_indent
+format-justify-center centrejust gtk-justify-center stock_text_center
+format-justify-fill gtk-justify-fill stock_text_justify
+format-justify-left leftjust gtk-justify-left stock_text_left
+format-justify-right rightjust gtk-justify-right stock_text_right
+format-text-bold gtk-bold stock_text_bold text_bold
+format-text-italic gtk-italic stock_text_italic text_italic
+format-text-strikethrough gtk-strikethrough stock_text-strikethrough text_strike
+format-text-underline gtk-underline stock_text_underlined text_under
+folder-new folder_new stock_new-dir
+folder-copy stock_folder-copy
+folder-move stock_folder-move
+gnome-app-install-star rhythmbox-set-star star
+go-bottom bottom gtk-goto-bottom stock_bottom
+go-down gtk-go-down stock_down down
+go-first go-last-rtl gtk-goto-first-ltr gtk-goto-last-rtl start stock_first
+go-home gohome gtk-home kfm-home redhat-home stock_home kfm_home
+go-jump gtk-jump-to-ltr gtk-jump-to-rtl location
+go-last go-first-rtl finish gtk-goto-first-rtl gtk-goto-last-ltr stock_last
+go-next go-previous-rtl forward gtk-go-back-rtl gtk-go-forward-ltr next stock_right meld-change-apply-right media-playlist-consecutive
+go-previous go-next-rtl back gtk-go-back-ltr gtk-go-forward-rtl previous stock_left meld-change-apply-left media-playlist-consecutive-rtl
+go-top top gtk-goto-top stock_top
+go-up gtk-go-up stock_up up
+gtk-connect online stock_connect
+gtk-disconnect offline stock_disconnect
+gtk-no dialog-no stock_no
+gtk-yes dialog-yes stock_yes
+help-about gtk-about gtk-info stock_about apps:gnome-about-logo apps:mate-panel-notification-area apps:xfce-system-info status:dialog-information 
+help-contents apps:help-browser categories:system-help
+insert-rule stock_insert-rule
+insert-table stock_insert-table
+insert-text draw-text xml-text-new
+list-add add edit-add gtk-add meld-change-copy xml-element-new
+list-remove edit-delete xml-attribute-delete xml-node-delete
+mail-forward mail_forward gnome-stock-mail-fwd stock_mail-forward
+mail-inbox stock_inbox
+mail-mark-junk mail_spam stock_spam
+mail-mark-notjunk mail-mark-not-junk
+mail-mark-read xfce-nomail stock_mail-compose status:indicator-messages status:mail-read
+mail-mark-unread mail-message-new gnome-stock-mail-new mail_new xfce-newmail status:indicator-messages-new status:mail-unread
+mail-outbox stock_outbox
+mail-reply-all mail_replyall stock_mail-reply-to-all
+mail-reply-sender mail_reply gnome-stock-mail-rpl stock_mail-reply status:mail-replied
+mail-send gnome-stock-mail-snd mail_send stock_mail-send mail-sent mail-folder-sent stock_sent-mail internet-mail
+mail-send-receive stock_mail-send-receive
+media-eject player-eject ejecter
+media-import-audio-cd stock_xfburn-import-session
+media-optical-audio-new audio-cd-new stock_xfburn-audio-cd
+media-optical-blank stock_xfburn-blank-cdrw
+media-optical-burn iso-image-burn media-write-cd stock_xfburn-blank-cdrw stock_xfburn-burn-cd
+media-optical-copy audio-cd-duplicate stock_xfburn-data-copy
+media-optical-data-new stock_xfburn-new-data-composition
+media-playback-pause gtk-media-pause player_pause stock_media-pause
+media-playback-start gtk-media-play-ltr player_play stock_media-play
+media-playback-stop gtk-media-stop player_stop stock_media-stop
+media-playlist-repeat stock_repeat
+media-playlist-shuffle stock_shuffle
+media-record gtk-media-record player_record stock_media-rec
+media-seek-forward media-seek-backward-rtl gtk-media-rewind-rtl player_fwd stock_media-fwd
+media-seek-backward media-seek-forward-rtl gtk-media-forward-rtl gtk-media-forward-ltr gtk-media-rewind-ltr player_rew stock_media-rew
+media-skip-forward media-skip-backward-rtl gtk-media-next-ltr gtk-media-previous-rtl player_end stock_media-next
+media-skip-backward media-skip-forward-rtl gtk-media-next-rtl gtk-media-previous-ltr player_start stock_media-prev
+new-24h-appointment stock_new-24h-appointment
+object-hidden status:user-not-tracked
+object-rotate-right rotate
+object-visible eye
+paint-gradient-linear tool-grayscale
+paint-solid draw-rectangle object-fill
+process-stop action-unavailable gtk-cancel gtk-stop stock_stop stop
+rotation-allowed transform-rotate
+stock_mail-compose applications-email-panel 
+stock_people stock_new-meeting apps:config-users
+system-build geany-build
+system-hibernate gnome-session-hibernate system-suspend-hibernate gpm-hibernate apps:xfsm-hibernate 
+system-lock-screen gnome-lockscreen xfce-system-lock
+system-log-out gnome-log-out gnome-logout gnome-session-logout lxde-logout gnome-logout brisk_system-log-out apps:xfsm-logout
+system-restart gnome-session-reboot un-reboot system-reboot apps:xfsm-reboot status:reboot-notifier
+system-run gnome-run gtk-execute bonobo-component-browser application-menu
+system-search gnome-searchtool kfind search apps:catfish apps:preferences-system-search apps:xfce4-appfinder
+system-shutdown system-shutdown-panel xfce-system-exit gnome-shutdown
+system-shutdown-restart system-shutdown-restart-panel
+system-suspend gnome-session-suspend gnome-session-sleep sleep gpm-suspend apps:xfsm-suspend
+system-switch-user gnome-session-switch apps:xfsm-switch
+tab-new tab_new stock_new-tab
+text-orientation-upright text-orientation-auto
+tool-crop image-crop
+tools-check-spelling gtk-spell-check stock_spellcheck
+view-continuous view-page-continuous
+view-dual view-page-facing
+view-fullscreen gtk-fullscreen stock_fullscreen window_fullscreen
+view-left-close gtk-index
+view-list-details apps:stock_view-details 
+view-list-icons pack-less
+view-restore gtk-leave-fullscreen stock_leave-fullscreen window_nofullscreen
+view-refresh stock-refresh reload_page reload_all_tabs reload3 reload gtk-refresh stock_refresh
+view-sort-ascending gtk-sort-ascending
+view-sort-descending gtk-sort-descending
+window-new window_new stock_new-window
+zoom-fit gtk-zoom-fit sticky_zoom stock_zoom-page system-search viewmagfit zoom zoom-best-fit zoom-fit-best 
+zoom-fit-page zoom-fit-best
+zoom-in gtk-zoom-in stock_zoom-in viewmag+
+zoom-original gtk-zoom-100 stock_zoom-1 viewmag1
+zoom-out gtk-zoom-out stock_zoom-out viewmag-
+

@@ -1,0 +1,83 @@
+alarm actions:bell actions:stock_bell
+avatar-default stock_person-panel actions:switch actions:stock_person categories:preferences-desktop-personal-directory
+audio-volume-high audio-volume-high-panel notification-audio-volume-high stock_volume stock_volume-max xfce4-mixer-no-muted xfce4-mixer-volume-high xfce4-mixer-volume-very-high devices:audio-speakers
+audio-volume-low audio-volume-low-panel notification-audio-volume-low stock_volume-0 stock_volume-min xfce4-mixer-volume-low
+audio-volume-medium audio-volume-medium-panel notification-audio-volume-medium stock_volume-med xfce4-mixer-volume-low-medium xfce4-mixer-volume-medium
+audio-volume-off audio-volume-low-zero-panel audio-volume-zero-panel notification-audio-volume-off xfce4-mixer-volume-ultra-low
+audio-volume-muted audio-volume-muted-panelnotification-audio-volume-muted stock_volume-mute 
+audio-volume-muted-blocked-panel audio-volume-muted-blocking-panel xfce4-mixer-muted xfce4-mixer-volume-muted
+exaile-play exaile-panel
+gpm-primary-000 battery-empty battery-000 battery_empty gpm-battery-000 gpm-ups-000 gmp-ups-missing notification-battery-000 notification-battery-empty notification-gpm-battery-000 notification-gpm-battery-empty notification-gpm-ups-000 xfpm-primary-000 xfm-battery-000
+gpm-primary-000-charging battery-empty-charging gpm-battery-000-charging gpm-ups-000-charging notification-battery-000-plugged notification-gpm-battery-000-charging notification-gpm-ups-000-charging xfpm-primary-000-charging xfpm-battery-000-charging
+gpm-primary-020 battery-caution battery_caution gpm-battery-020 gpm-ups-020 notification-battery-020 notification-battery-low notification-gpm-battery-020 notification-gpm-ups-020 xfpm-primary-020 xfpm-battery-020
+gpm-primary-020-charging battery-caution-charging gpm-battery-020-charging gpm-ups-020-charging notification-battery-020-plugged notification-gpm-battery-020-charging notification-gpm-ups-020-charging xfpm-primary-020-charging xfpm-battery-020-charging
+gpm-primary-040 battery-low battery_low gpm-battery-040 gpm-ups-040 notification-battery-040 notification-gpm-battery-040 notification-gpm-ups-040 xfpm-primary-040 xfpm-battery-040
+gpm-primary-040-charging battery-low-charging gpm-battery-040-charging gpm-ups-040-charging notification-battery-040-plugged notification-gpm-battery-040-charging notification-gpm-ups-040-charging xfpm-primary-040-charging xfpm-battery-040-charging
+gpm-primary-060 battery-good battery_two_thirds gpm-battery-060 gpm-ups-060 notification-battery-060 notification-gpm-battery-060 notification-gpm-ups-060 xfpm-primary-060 xfpm-battery-060
+gpm-primary-060-charging battery-good-charging gpm-battery-060-charging gpm-ups-060-charging notification-battery-060-plugged notification-gpm-battery-060-charging notification-gpm-ups-060-charging xfpm-primary-060-charging xfpm-battery-060-charging
+gpm-primary-080 battery_third_fouth gpm-battery-080 gpm-ups-080 notification-battery-080 notification-gpm-battery-080 notification-gpm-ups-080 xfpm-primary-080 xfpm-battery-080
+gpm-primary-080-charging gpm-battery-080-charging gpm-ups-080-charging notification-battery-080-plugged notification-gpm-battery-080-charging notification-gpm-ups-080-charging xfpm-primary-080-charging xfpm-battery-080-charging
+gpm-primary-100 battery-full battery_full gpm-battery-100 gpm-ups-100 notification-battery-100 notification-gpm-battery-100 notification-gpm-ups-100 xfpm-primary-100 xfpm-battery-100
+gpm-primary-100-charging battery-full-charging gpm-primary-charged gpm-battery-100-charging gpm-ups-100-charging notification-battery-100-plugged notification-gpm-battery-100-charging notification-gpm-ups-100-charging xfpm-primary-100-charging xfpm-battery-100-charging battery-full-charged
+gpm-primary-charged battery-full-charged battery_charged battery_plugged gpm-ac-adapter gpm-battery-charged notification-gpm-battery-charged xfpm-primary-charged xfpm-ac-adapter xfpm-battery-charged ac-adapter
+gpm-primary-missing battery-missing
+deluge-panel deluge-torrent-panel
+dialog-information dialog-info gtk-dialog-info info messagebox_info stock_dialog-info mate-panel-notification-area apps:cs-details
+dialog-warning gtk-dialog-warning messagebox_warning stock_dialog-warning xfce4-notifyd important actions:gtk-caps-lock-warning apps:mate-notification-properties apps:preferences-system-notifications
+display-brightness apps:mate-brightness-applet
+dropboxstatus-busy busy
+dropboxstatus-busy2 busy2
+dropboxstatus-idle idle
+dropboxstatus-logo logo
+dropboxstatus-x x
+folder-open folder-drag-accept folder_open gnome-fs-directory-accept gtk-directory stock_open
+image-loading gnome-fs-loading-icon
+indicator-messages-new notification-message-email
+krb-valid-ticket gtk-dialog-authentication-panel keys
+locked channel-secure gnome-dev-wavelan-encrypted nm-vpn-standalone-lock status_lock stock_lock xfce-system-lock actions:lock actions:changes-prevent actions:object-locked actions:document-encrypt
+mail-attachment stock_attach
+media-player-banshee-panel banshee-panel media-player-banshee-buffering media-player-banshee-stopped
+network-cellular-signal-excellent apps:cs-network 
+network-error connect_no gnome-netstatus-disconn gnome-netstatus-error network-wired-disconnected nm-no-connection notification-ethernet-disconnected notification-network-ethernet-disconnected notification-network-disconnected
+network-idle gnome-netstatus-idle
+network-receive gnome-netstatus-rx
+network-transmit gnome-netstatus-tx
+network-transmit-receive connect_creating connect_established gnome-netstatus-txrx nm-adhoc nm-device-wired-autoip nm-device-wired notification-network-ethernet-connected devices:network-wired
+network-wired-acquiring connect_creating
+network-wired-disconnected network-offline
+network-wireless-offline notification-network-disconnected notification-network-wireless-disconnected
+network-wireless-secure-signal-excellent network-wireless-encrypted nm-signal-100-secure
+network-wireless-secure-signal-good nm-signal-75-secure
+network-wireless-secure-signal-none nm-signal-00-secure
+network-wireless-secure-signal-ok nm-signal-50-secure
+network-wireless-secure-signal-weak nm-signal-25-secure
+network-wireless-signal-excellent gnome-netstatus-75-100 nm-device-wireless nm-device-wwan nm-signal-100 notification-network-wireless-full devices:network-wireless
+network-wireless-signal-none nm-signal-00 nm-signal-0 notification-network-wireless-none
+network-wireless-signal-ok gnome-netstatus-25-49 nm-signal-50 notification-network-wireless-medium
+network-wireless-signal-weak gnome-netstatus-0-24 nm-signal-25 notification-network-wireless-low
+network-wireless-signal-good gnome-netstatus-50-74 nm-signal-75 notification-network-wireless-high
+nm-device-wired-secure devices:network-vpn
+nm-vpn-lock nm-vpn-active-lock nm-vpn-connecting12 nm-vpn-connecting13 nm-vpn-connecting14 nm-secure-lock
+notification-network-wireless-disconnected notification-network-disconnected
+printer-printing actions:document-print apps:cs-printer apps:csd-printer
+sound-icon rhythmbox-panel
+system-devices-panel categories:preferences-system-directory
+unlocked actions:unlock actions:changes-allow actions:object-unlocked
+user-available empathy-available user-available-panel tray-online available
+user-away user-extended-away empathy-away user-away-panel tray-away away
+user-busy empathy-busy user-busy-panel tray-busy busy
+user-idle empathy-extended-away user-idle-panel tray-extended-away
+user-indeterminate user-indeterminate-panel
+user-invisible empathy-invisible user-invisible-panel invisible
+user-offline empathy-offline user-offline-panel tray-offline offline
+user-trash-full edittrash gnome-fs-trash-full gnome-stock-trash-full stock_trash_full trashcan_full user-trash-full xfce-trash-full
+weather-clear stock_weather-sunny sunny
+weather-clear-night stock_weather-night-clear weather-clear-night-000 weather-clear-night-010 weather-clear-night-020 weather-clear-night-030 weather-clear-night-040 weather-clear-night-050 weather-clear-night-060 weather-clear-night-070 weather-clear-night-080 weather-clear-night-090 weather-clear-night-100 weather-clear-night-110 weather-clear-night-120 weather-clear-night-130 weather-clear-night-140 weather-clear-night-150 weather-clear-night-160 weather-clear-night-170 weather-clear-night-180 weather-clear-night-190 weather-clear-night-200 weather-clear-night-210 weather-clear-night-220 weather-clear-night-230 weather-clear-night-240 weather-clear-night-250 weather-clear-night-260 weather-clear-night-270 weather-clear-night-280 weather-clear-night-290 weather-clear-night-300 weather-clear-night-310 weather-clear-night-320 weather-clear-night-330 weather-clear-night-340 weather-clear-night-350
+weather-few-clouds stock_weather-few-clouds apps:xfce4-weather
+weather-few-clouds-night apps:gnome-weather categories:applications-astronomy
+weather-fog stock_weather-fog
+weather-overcast stock_weather-cloudy
+weather-showers stock_weather-showers
+weather-snow stock_weather-snow
+weather-storm stock_weather-storm
+
