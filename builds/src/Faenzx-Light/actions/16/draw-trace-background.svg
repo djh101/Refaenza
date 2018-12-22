@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg30" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .72727 0 2.7273)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m14.971 8a1 1 0 0 0-0.7012 0.31641c-2.4235 2.5944-6.4781 4.6836-13.27 4.6836a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-6a1 1 0 0 0-1.0293-1zm0.0293 1v6h-14v-1c7 0 11.375-2.19 14-5z" fill="#fff" fill-rule="evenodd" opacity=".05"/>
+ <path id="base" d="m15 9c-2.625 2.81-7 5-14 5v1h14z" fill="url(#gr0)" fill-rule="evenodd"/>
+ <path id="path15" d="m1 1v13c7 0 11.375-2.19 14-5v-8h-14z" opacity=".2"/>
+ <path id="path17" d="m15 9c-2.625 2.81-7 5-14 5v1h14v-6zm-0.5 1.0781v4.4219h-13v-0.041c6.1633-0.101 10.296-1.9211 13-4.3809z" fill-rule="evenodd" opacity=".3"/>
+ <path id="path22" d="m1 15v1h14v-1h-14z" fill="#fff" fill-rule="evenodd" opacity=".2"/>
+ <path id="path27" d="m15 9c-2.625 2.81-7 5-14 5v1c7 0 11.375-2.19 14-5v-1z" fill-rule="evenodd" opacity=".3"/>
+</svg>

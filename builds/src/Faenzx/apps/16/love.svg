@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata31">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs4">
+  <linearGradient id="linearGradient3629" x2="29.017" y1="8" y2="8" gradientTransform="rotate(-90,8,8)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3330" offset="0"/>
+   <stop id="stop3333" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect833" d="m2 0c-1.108 0-2 0.892-2 2v12c0 0.554 0.22248 1.0545 0.58398 1.416l14.832-14.832c-0.3615-0.3615-0.86202-0.58398-1.416-0.58398h-12z" fill="#e74a99"/>
+ <path id="rect3196" d="m15.416 0.58398-14.832 14.832c0.3615 0.3615 0.86202 0.58398 1.416 0.58398h12c1.108 0 2-0.892 2-2v-12c0-0.554-0.22248-1.0545-0.58398-1.416z" fill="#27aae1"/>
+ <path id="rect2835" d="m0 14c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2h-12c-1.108 0-2 0.892-2 2zm0.96875 0v-12c0-0.5832 0.44805-1.0312 1.0312-1.0312h12c0.5832 0 1.0312 0.44805 1.0312 1.0312v12c0 0.5832-0.44805 1.0312-1.0312 1.0312h-12c-0.5832 0-1.0312-0.44805-1.0312-1.0312z" fill="url(#linearGradient3629)" opacity=".4"/>
+ <path id="path2843" d="m2 0.96875c-0.5832 0-1.0312 0.44805-1.0312 1.0312v1c0-0.5832 0.44805-1.0312 1.0312-1.0312h12c0.5832 0 1.0312 0.44805 1.0312 1.0312v-1c0-0.5832-0.44805-1.0312-1.0312-1.0312z" fill="#fff" opacity=".35"/>
+ <defs id="defs21">
+  <filter id="w">
+   <feGaussianBlur id="feGaussianBlur13" stdDeviation="0.26998568"/>
+  </filter>
+ </defs>
+ <g id="main" transform="matrix(.83333 0 0 .83333 1.3332 1.3333)">
+  <path id="path23" d="M 4.78,2 C 2.6982,2 0.9988,3.675 0.9988,5.75 c 0,1.0797 0.45574,2.0647 1.1875,2.75 L 8,14 13.811,8.5 C 14.543,7.8148 14.999,6.8298 14.999,5.75 14.999,3.675 13.299,2 11.218,2 9.8463,2 8.6595,2.7212 8,3.8125 7.3406,2.7211 6.1514,2 4.78,2 Z" filter="url(#w)" opacity=".4"/>
+  <path id="base" d="M 4.78,2 C 2.6982,2 0.9988,3.675 0.9988,5.75 c 0,1.0797 0.45574,2.0647 1.1875,2.75 L 8,14 13.811,8.5 C 14.543,7.8148 14.999,6.8298 14.999,5.75 14.999,3.675 13.299,2 11.218,2 9.8463,2 8.6595,2.7212 8,3.8125 7.3406,2.7211 6.1514,2 4.78,2 Z" fill="#fff"/>
+ </g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3204" x1="1" x2="15" y1="9" y2="9" gradientTransform="translate(-17,-2)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3702" stop-color="#2f2f2f" offset="0"/>
+   <stop id="stop3704" stop-color="#4f4f4f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3629" x2="29.017" y1="8" y2="8" gradientTransform="matrix(0,-1,1,0,0,16)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3330" offset="0"/>
+   <stop id="stop3333" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4010" x1="-78" x2="-66" y1="66" y2="54" gradientTransform="matrix(.16667 0 0 .16667 20 -18)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4876"/>
+  <linearGradient id="linearGradient4876">
+   <stop id="stop4878" stop-color="#50d0e9" offset="0"/>
+   <stop id="stop4880" stop-color="#00718e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4012" x1="-78" x2="-66" y1="66" y2="54" gradientTransform="matrix(.16667 0 0 .16667 22 -20)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4876"/>
+  <linearGradient id="linearGradient4014" x1="-78" x2="-66" y1="66" y2="54" gradientTransform="matrix(.16667 0 0 .16667 24 -20)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4876"/>
+  <linearGradient id="linearGradient4016" x1="-78" x2="-66" y1="30" y2="18" gradientTransform="matrix(.16667 0 0 .16667 22 -10)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3735"/>
+  <linearGradient id="linearGradient3735">
+   <stop id="stop3737" stop-color="#ffc94d" offset="0"/>
+   <stop id="stop3740" stop-color="#e96d00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4026" x1="-78" x2="-66" y1="30" y2="18" gradientTransform="matrix(.16667 0 0 .16667 24 -12)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3735"/>
+  <linearGradient id="linearGradient4020" x1="-78" x2="-66" y1="30" y2="18" gradientTransform="matrix(.16667 0 0 .16667 24 -10)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3735"/>
+  <linearGradient id="linearGradient4022" x1="-78" x2="-66" y1="66" y2="54" gradientTransform="matrix(.16667 0 0 .16667 22 -18)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4876"/>
+  <linearGradient id="linearGradient3744" x1="-78" x2="-66" y1="30" y2="18" gradientTransform="matrix(.16667 0 0 .16667 24 -8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3735"/>
+  <linearGradient id="linearGradient4004" x1="-30" x2="-18" y1="57" y2="45" gradientTransform="matrix(.16667 0 0 .16667 10 -20.5)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4761"/>
+  <linearGradient id="linearGradient4761">
+   <stop id="stop4763" stop-color="#ff6585" offset="0"/>
+   <stop id="stop4765" stop-color="#f10022" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4006" x1="-30" x2="-18" y1="57" y2="45" gradientTransform="matrix(.16667 0 0 .16667 8 -20.5)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4761"/>
+  <linearGradient id="linearGradient4008" x1="-30" x2="-18" y1="57" y2="45" gradientTransform="matrix(.16667 0 0 .16667 8 -18.5)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4761"/>
+  <linearGradient id="linearGradient4024" x1="-30" x2="-18" y1="57" y2="45" gradientTransform="matrix(.16667 0 0 .16667 8 -16.5)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4761"/>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect3196" transform="rotate(-90)" x="-16" width="16" height="16" rx="2" ry="2" fill="url(#linearGradient3204)"/>
+  <path id="rect2835" d="m0 14c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2h-12c-1.108 0-2 0.892-2 2v12zm0.96875 0v-12c0-0.5832 0.44805-1.0312 1.0312-1.0312h12c0.5832 0 1.0312 0.44805 1.0312 1.0312v12c0 0.5832-0.44805 1.0312-1.0312 1.0312h-12c-0.5832 0-1.0312-0.44805-1.0312-1.0312z" fill="url(#linearGradient3629)" opacity=".4"/>
+  <path id="path2843" d="m2 0.96875c-0.5832 0-1.0312 0.44805-1.0312 1.0312v1c0-0.5832 0.44805-1.0312 1.0312-1.0312h12c0.5832 0 1.0312 0.44805 1.0312 1.0312v-1c0-0.5832-0.44805-1.0312-1.0312-1.0312h-12z" fill="#fff" opacity=".15"/>
+  <rect id="rect3677" transform="rotate(90)" x="11" y="-5" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient3744)"/>
+  <rect id="rect3995" transform="rotate(90)" x="3" y="-9" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4024)"/>
+  <rect id="rect5029" transform="rotate(90)" x="9" y="-9" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4022)"/>
+  <rect id="rect3746" transform="rotate(90)" x="11" y="-7" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4020)"/>
+  <rect id="rect3750" transform="rotate(90)" x="11" y="-9" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4026)"/>
+  <rect id="rect3754" transform="rotate(90)" x="9" y="-7" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4016)"/>
+  <rect id="rect3764" transform="rotate(90)" x="11" y="-11" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4014)"/>
+  <rect id="rect3768" transform="rotate(90)" x="9" y="-11" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4012)"/>
+  <rect id="rect3772" transform="rotate(90)" x="7" y="-9" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4010)"/>
+  <rect id="rect3782" transform="rotate(90)" x="3" y="-11" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4008)"/>
+  <rect id="rect3786" transform="rotate(90)" x="3" y="-13" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4006)"/>
+  <rect id="rect3790" transform="rotate(90)" x="5" y="-13" width="2" height="2" rx=".33333" ry=".33333" color="#000000" fill="url(#linearGradient4004)"/>
+ </g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient3249" x1="10.1" x2="10.1" y1="3" y2="19" gradientTransform="matrix(.647 0 0 .647 20.2 .235)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#919191" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5347" x1="5.06" x2="7.06" y1="6.07" y2="6.07" gradientTransform="matrix(1 0 0 1.07 -12.1 -2.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cca050" offset="0"/>
+   <stop stop-color="#dec18c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5351" x1="5.06" x2="7.06" y1="6.07" y2="6.07" gradientTransform="matrix(1 0 0 1.07 -15.1 -2.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#767676" offset="0"/>
+   <stop stop-color="#c1c1c1" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient5322" cx="12.5" cy="18.9" r="8.94" gradientTransform="matrix(.772 5.65e-8 -5.39e-8 .737 -1.67 -2.4)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4490e6" offset="0"/>
+   <stop stop-color="#103d8f" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3204" x1="1" x2="15" y1="9" y2="9" gradientTransform="translate(-16,-1)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b4b4b4" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3716" x1="-32" x2="-26" y1="56.1" y2="56.1" gradientTransform="matrix(.143 .247 -.202 .117 25.6 8.66)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#383838" offset="0"/>
+   <stop stop-color="#787878" offset=".304"/>
+   <stop stop-color="#1f1f1f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3730" x1="7" x2="15.5" y1="9.05" y2="6.77" gradientTransform="matrix(.966 .259 -.259 .966 .798 .36)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3235" x1="4.95" x2="4.95" y1="16" y2="-.0275" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#727272" offset="0"/>
+   <stop stop-color="#b9b9b9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x=".0442" width="16" height="16" rx="2" ry="2" fill="url(#linearGradient3235)"/>
+ <rect transform="rotate(-90)" x="-15" y="1" width="14" height="14" rx="1.5" ry="1.5" fill="url(#linearGradient3204)"/>
+ <rect x="2" y="2" width="12" height="12" rx=".751" ry=".786" fill="url(#radialGradient5322)"/>
+ <rect transform="rotate(-90)" x="-7" y="3" width="2" height="2" fill="url(#linearGradient5347)"/>
+ <rect transform="rotate(-90)" x="-10" y="3" width="2" height="2" fill="url(#linearGradient5351)"/>
+ <rect x="22.5" y="2.5" width="11" height="11" rx=".4" ry=".4" fill="none" stroke="url(#linearGradient3249)" stroke-linejoin="round"/>
+ <path d="m2 12v1.22c0 0.436 0.334 0.781 0.75 0.781h10.5c0.416 0 0.75-0.346 0.75-0.781v-1.22h-12z" fill="#c3d9f5" opacity=".4"/>
+ <path d="m16.8 7.24c-0.0494-0.185-0.249-0.294-0.452-0.239l-0.931 0.249c-0.0098 0.00262-0.0165 0.00369-0.0259 0.00693-5.7 1.54-10.2 3-10 3.58 0.164 0.611 4.78-0.409 10.5-1.92 0.172-0.0457 0.317-0.085 0.491-0.132l0.465-0.125c0.203-0.0544 0.321-0.249 0.272-0.433l-0.263-0.983z" fill="url(#linearGradient3730)" opacity=".8"/>
+ <path d="m2.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h11c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-11z" fill="#fff"/>
+ <path d="m15.4 4.39c-0.0955-0.165-0.317-0.219-0.499-0.114l-0.835 0.482c-0.0087 0.00505-0.015 0.00783-0.0232 0.0134-5.1 2.97-9.07 5.54-8.78 6.06 0.316 0.547 4.51-1.63 9.63-4.57 0.155-0.0888 0.284-0.164 0.44-0.254l0.417-0.241c0.182-0.105 0.246-0.323 0.151-0.489l-0.509-0.881z" fill="url(#linearGradient3716)"/>
+ <path d="m2 4v-1.22c0-0.436 0.334-0.781 0.75-0.781h10.5c0.416 0 0.75 0.346 0.75 0.781v1.22h-12z" fill="#c3d9f5" opacity=".4"/>
+ <path d="m5 3a1 1 0 1 1-2 0 1 1 0 1 1 2 0z" color="#000000" fill="#c3d9f5" opacity=".5"/>
+ <rect x="3" y="12" width="3" height="1" color="#000000" fill="#c3d9f5" opacity=".3"/>
+ <rect x="7" y="12" width="3" height="1" color="#000000" fill="#c3d9f5" opacity=".3"/>
+</svg>

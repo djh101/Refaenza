@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg30" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .72727 0 2.7273)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m7 0a1 1.0001 0 0 0-1 1v5l-2 0.00195a1.0001 1.0001 0 0 0-0.70703 1.707l4 3.998a1.0001 1.0001 0 0 0 0.63867 0.2891c-1.9369 0.5897-4.1556 1.0039-6.9316 1.0039a1.0001 1.0001 0 0 0-1 1v1a1.0001 1.0001 0 0 0 1 1h14a1.0001 1.0001 0 0 0 1-1v-6a1.0001 1.0001 0 0 0-1.7305-0.68359c-1.3286 1.4223-3.2139 2.6504-5.705 3.5078a1.0001 1.0001 0 0 0 0.14258-0.1172l4-4a1.0001 1.0001 0 0 0-0.707-1.707h-2v-5a1.0001 1.0001 0 0 0-1-1h-2zm0 1h2v6h3l-4 4-4-3.998 3-0.00195v-6zm8 8v6h-14v-1c7 0 11.375-2.19 14-5z" fill="#fff" fill-rule="evenodd" opacity=".05"/>
+ <path id="base" d="m7 1v6l-3 2e-3 4 3.998 4-4h-3v-6h-2zm8 8c-2.625 2.81-7 5-14 5v1h14v-6z" fill="url(#gr0)" fill-rule="evenodd"/>
+ <path id="path15" d="m7 1v6l-3 0.00195 4 3.998 4-4h-3v-6h-2zm0.5 0.5h1v5.5a0.50005 0.50005 0 0 0 0.5 0.5h1.793l-2.793 2.793-2.793-2.791 1.793-0.00195a0.50005 0.50005 0 0 0 0.5-0.5v-5.5zm7.5 7.5c-2.625 2.81-7 5-14 5v1h14v-6zm-0.5 1.0781v4.4219h-13v-0.041c6.1633-0.101 10.296-1.9211 13-4.3809z" fill-rule="evenodd" opacity=".3"/>
+ <path id="path20" d="m11 8-3 3-3-2.998h-1l4 3.998 4-4h-1zm-10 7v1h14v-1h-14z" fill="#fff" fill-rule="evenodd" opacity=".2"/>
+ <path id="path25" d="m7 1v1h2v-1h-2zm0 6-3 0.00195 1 1 2-0.00195v-1zm2 0v1h2l1-1h-3zm6 2c-2.625 2.81-7 5-14 5v1c7 0 11.375-2.19 14-5v-1z" fill-rule="evenodd" opacity=".3"/>
+</svg>

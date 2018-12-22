@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata32">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs4">
+  <linearGradient id="linearGradient3335" x1="11.375" x2="11.375" y1="22" y2="-9.8173" gradientUnits="userSpaceOnUse">
+   <stop id="stop3330" offset="0"/>
+   <stop id="stop3333" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3181" x1="-3.0608" x2="-3.0608" y1="27.258" y2="7.2537" gradientTransform="translate(12.119,-5.2582)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3189" stop-color="#29669f" offset="0"/>
+   <stop id="stop3191" stop-color="#88b6e0" offset="1"/>
+  </linearGradient>
+  <filter id="filter3194" x="-.18" y="-.18" width="1.36" height="1.36" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3196" stdDeviation="1.2"/>
+  </filter>
+  <clipPath id="clipPath2849">
+   <rect id="rect2851" x="1" y="1" width="20" height="20" rx="2" ry="2" fill="#fff" fill-rule="evenodd"/>
+  </clipPath>
+  <linearGradient id="linearGradient3845" x1="11" x2="21" y1="19.5" y2="19.5" gradientTransform="translate(1,1)" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+   <stop id="stop3833" stop-color="#fff" offset="0"/>
+   <stop id="stop3821" stop-color="#fff" stop-opacity=".49804" offset=".75"/>
+   <stop id="stop3835" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3961" x1="10" x2="10" y1="1" y2="16" gradientTransform="translate(1,1)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3825" stop-color="#fff" offset="0"/>
+   <stop id="stop3829" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g3337" transform="translate(1,1)">
+  <rect id="rect3371" x=".5" y=".5" width="21" height="21.5" rx="2.5" ry="2.5" fill="url(#linearGradient3335)" opacity=".3"/>
+  <rect id="rect2553" x="1" y="2" width="20" height="20" rx="2.381" ry="2.3256" opacity=".5"/>
+ </g>
+ <rect id="rect3173" x="2" y="2" width="20" height="20" rx="2" ry="2" fill="url(#linearGradient3181)" fill-rule="evenodd"/>
+ <path id="path4" d="m4 2v1h1v-1h-1zm0 1h-1v1h-1v1h1v1h1v-3zm-1 0v-0.72461c-0.3008 0.17446-0.55015 0.42381-0.72461 0.72461h0.72461zm3-1v1h1v-1h-1zm1 1v2h2v-2h-2zm2 0h1v-1h-1v1zm1 0v2h-1v1h3v-1h-1v-2h-1zm1 0h1v-1h-1v1zm1 0v1h3v-1h-3zm9-0.72461v0.72461h0.72461c-0.17446-0.3008-0.42381-0.55015-0.72461-0.72461zm0 0.72461h-1v1h1v-1zm-16 1v1h1v-1h-1zm11 0v1h-1v1h2v-2h-1zm2 0v1h1v-1h-1zm-5 1v1h1v-1h-1zm7 0v1h1v-1h-1zm-13 1v1h1v-1h-1zm11 0v1h1v-1h-1zm1 1v1h1v-1h-1zm-1 0h-1v1h1v-1zm-14 0v1h1v-1h-1zm17 0v1h1v-1h-1z" fill="#56962c" stroke-width=".5"/>
+ <path id="path6" d="m8 6v1h1v-1zm12 0v1h1v-1zm-17 1v1h1v-1zm1 1v1h2v-1h1v-1h-2v1zm-1 0h-1v1h1zm9-1v2h2v-1h-1v-1zm2 2v1h1v-1zm1 1v1h1v-1zm1 1v1h1v-1zm0 1h-1v1h1zm-1 1h-1v1h1zm0 1v2h1v-2zm1 2v2h1v-2zm1 2v1h1v-1zm1 1v2h1v-2zm1 2v1h1v-1zm-5-7h-1v1h1zm0-4h-1v1h1zm-1 1h-1v2h1zm-1 2h-1v2h1zm-1 0v-1h-1v1zm-1-1v-1h-1v1zm-1 0h-1v1h1zm-1 1h-1v1h1zm0 1v1h-1v1h-1v1h1v1h1v-2h1v-2zm1 2v1h2v-1zm2 1v2h1v-2zm0 2h-1v2h1zm0 2v1h2v-1zm-1 0h-1v1h1zm-2-3v1h1v-1zm0 1h-1v3h1zm1-8v-1h-1v1zm-1-1v-1h-1v1zm4 1v-2h-1v2zm8-3v1h1v-1zm-2 1v1h1v-1zm1 1v1h2v-1zm-17 0v1h1v-1zm3 0v2h1v-2zm0 2h-2v1h2zm13 0v2h1v-2zm1 2v3h1v-2h1v-1zm1 3v2h1v-2zm1 0h1v-1h-1zm0-5v1h1v-1zm-19 2v1h1v-1zm1 1v1h1v-1zm1 1v1h1v-1zm-1 0h-1v1h1zm2-2v1h1v-1zm8 2v1h1v-1zm-11 2v1h1v-1zm3 0v1h1v-1zm8 0v1h1v3h1v-4zm-10 2v1h1v-1zm1 1v1h1v-1zm12-1v1h1v-1z" fill="#583c28" stroke-width=".5"/>
+ <path id="path8" d="m5 2v1h1v-1zm1 1v1h1v-1zm-1 0h-1v3h1zm0 3v1h2v-1zm-1 0h-1v1h1zm11-4v1h1v-1zm3 0v1h1v3h1v-4zm-7 1v2h1v-2zm1 2v2h1v-2zm9-1v1h1v-1zm-4 1v1h1v-1z" fill="#60a036" stroke-width=".5"/>
+ <path id="path10" d="m2 7v1h1v-1zm8 0v1h1v-1zm3 0v1h2v-1zm-7 3v1h1v-1zm11 0v1h1v-1zm-11 2v1h1v-1zm11 0v1h1v-1zm-11 2v1h1v-1zm0 1h-1v1h1zm11-1v1h1v-1zm-14 2v1h1v-1zm11 0v1h1v-1zm-8 2v1h1v-1zm9 0v1h1v-1zm-3 1v1h1v-1zm9 0v1h1v-1zm-13 2v1h1v-1zm7 0v1h1v-1z" fill="#6b6b6b" stroke-width=".5"/>
+ <path id="path12" d="m4 2c-0.36693 0-0.705 0.10429-1 0.27539v0.72461h1v-1zm-1 1h-0.72461c-0.1711 0.295-0.27539 0.63307-0.27539 1h1v-1zm4-1v1h2v-1h-2zm2 1v2h1v-2h-1zm1 0h1v-1h-1v1zm-1 2h-2v-1h-1v1h-1v1h4v-1zm-4 1h-1v1h1v-1zm1-2v-1h-1v1h1zm6-2v1h3v-1h-3zm3 1v1h-3v1h2v1h1v-1h1v-1h1v1h1v-1h1v-1h-1v-1h-2v1h-1zm3 2v1h1v-1h-1zm1 1v1h1v-1h-1zm-1 0h-2v1h2v-1zm2-4v1h1v-0.72461c-0.295-0.1711-0.63307-0.27539-1-0.27539zm1 1v1h1c0-0.36693-0.10429-0.705-0.27539-1h-0.72461zm0 1h-1v1h1v-1zm0 1v2h1v-2h-1zm-19 0v1h1v-1h-1zm9 1v1h1v-1h-1z" fill="#72b248" stroke-width=".5"/>
+ <path id="path14" d="m8 7v1h-2v1h-1v1h2v-1h2v-2h-1zm1 2v1h1v-1h-1zm-2 1v1h-1v1h1v1h1v-3h-1zm0 3h-2v1h2v-1zm0 1v1h1v-1h-1zm13-7v1h1v-1h-1zm-17 1v3h-1v1h2v-4h-1zm11 0v1h2v2h1v-1h1v-2h-4zm3 3v1h2v-1h-2zm0 1h-1v3h1v-1h1v-1h-1v-1zm0 3v1h1v-1h-1zm3-6v1h2v-1h-2zm-6 1v2h1v-2h-1zm6 1v3h2v-1h-1v-2h-1zm-11 1v2h1v-2h-1zm-6 1v2h1v-2h-1zm1 2v1h1v-1h-1zm1 1v2h2v-1h-1v-1h-1zm2 2v1h1v-1h-1zm0 1h-2v3h1v-2h1v-1zm-4-4h-1v1h1v-1zm11-1v1h-1v1h2v-2h-1zm1 2v1h-1v1h2v-2h-1zm1 2v2h2v-1h-1v-1h-1zm-5-3v2h1v-2h-1zm-3 1v1h1v-1h-1zm1 1v1h1v-1h-1zm-6 0v3h1v-3h-1zm15 0v1h1v-1h-1zm2 2v1h-1v1h1v1c0.36693 0 0.705-0.10429 1-0.27539v-0.72461h0.72461c0.1711-0.295 0.27539-0.63307 0.27539-1h-1v-1h-1zm-1 2h-1v1h1v-1zm-8-1v1h2v-1h-2zm2 1v1h1v-1h-1zm-2 0h-1v1h1v-1zm-8 0v0.72461c0.295 0.1711 0.63307 0.27539 1 0.27539v-1h-1zm13 0v1h1v-1h-1z" fill="#785439" stroke-width=".5"/>
+ <path id="path16" d="m2 6v1h1v-1h-1zm8 0v1h1v-1h-1zm0 1h-1v1h1v-1zm3-1v1h1 1v-1h-1-1zm2 1v1h1v-1h-1zm-4 1v1h1v-1h-1zm1 1v1h1 1v-1h-1-1zm6-1v1h1v-1h-1zm-16 1v1h1v-1h-1zm2 0v1h1v-1h-1zm6 1v1 1h1 1v-1h-1v-1h-1zm8 0v1h1v-1h-1zm1 1v1h1v-1h-1zm2 0v1h1v-1h-1zm-16 1v1h1v-1h-1zm0 1h-1v1h1v-1zm8-1v1h-1v1h1 1v-1-1h-1zm-11 1v1h1v-1h-1zm8 1v1 1h1v-1-1h-1zm8 0v1h1v-1h-1zm-12 1v1h1v-1h-1zm6 0v1h1v-1h-1zm8 0v1h1 1v-1h-1-1zm-2 1v1h1v-1h-1zm-16 1v1h1v-1h-1zm2 0v1h1v-1h-1zm8 0v1h1 1v-1h-1-1zm9 0v1h1v-1h-1zm-11 1v1h1v-1h-1zm0 1h-1v1 1h1v-1-1zm9-1v1h1v-1h-1zm-17 1v1c0 0.74107 0.4042 1.379 1 1.7246v-0.72461-1-1h-1zm2 0v1 1h1v-1-1h-1zm9 0v1 1h1v-1-1h-1z" fill="#956b49" stroke-width=".5"/>
+ <path id="path18" d="m9 6v1h1v-1zm6 0v1h1v-1zm1 1v1h1v-1zm-5 0v1h1v-1z" fill="#9bca6b" stroke-width=".5"/>
+ <path id="path20" d="m7 7v1h1v-1h-1zm11 0v1h1v-1h-1zm1 1v1 1h1v-1-1h-1zm-10 0v1h1v1h1v-1-1h-1-1zm1 2h-1v1h1v-1zm-1 1h-1v1h1v-1zm0-1v-1h-1v1h1zm12-2v1h1v-1h-1zm-6 1v1h1v-1h-1zm-11 1v1 1h1v-1-1h-1zm8 0v1h1v-1h-1zm1 1v1h1v-1h-1zm1 1v1h1v-1h-1zm1 0h1v-1h-1v1zm0 1v1h1v-1h-1zm6-3v1h1v-1h-1zm-19 2v1h1v-1h-1zm9 0v1h1v-1h-1zm0 1h-1v1h1v-1zm-1 1h-1v1 1h1v-1-1zm-1 0v-1h-1v1h1zm10-2v1 1h1v-1-1h-1zm-15 2v1h1v-1h-1zm8 0v1h1v-1h-1zm9 0v1h1v-1h-1zm-5 1v1h1v-1h-1zm1 1v1 1h1v-1-1h-1zm1 0h1v-1h-1v1zm0 2v1h1v-1h-1zm1 0h1v-1h-1v1zm1-1h1v-1h-1v1zm-1 2v1h1v-1h-1zm-7-3v1h1v-1h-1zm-4 1v1h1v-1h-1zm1 1v1h1v-1h-1zm1 0h1v-1h-1v1zm-1 1h-1v1 1h1v-1-1zm-5-1v1h1v-1h-1zm8 0v1h1v-1h-1zm0 1h-1v1h1v-1zm9-1v1h1v-1h-1zm-6 1v1 1h1v-1-1h-1zm-9 1v1 1h1v-1-1h-1zm11 0v1 1h1v-1-1h-1zm4 1v0.72461c0.3008-0.17446 0.55015-0.42381 0.72461-0.72461h-0.72461z" fill="#b8845b" stroke-width=".5"/>
+ <path id="rect3050" d="m4 2c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2zm0 1.0312h16c0.5497 0 0.96875 0.41905 0.96875 0.96875v16c0 0.5497-0.41905 0.96875-0.96875 0.96875h-16c-0.5497 0-0.96875-0.41905-0.96875-0.96875v-16c0-0.5497 0.41905-0.96875 0.96875-0.96875z" fill="url(#linearGradient3961)" fill-rule="evenodd" opacity=".35"/>
+ <path id="path3235" d="m4 22c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2z" fill="url(#linearGradient3845)" fill-rule="evenodd" opacity=".2"/>
+ <g id="layer2" transform="translate(0,2)">
+  <rect id="rect2410" transform="translate(1,-1)" x="3" y="3" width="16" height="16" rx="2" ry="2" clip-path="url(#clipPath2849)" fill="#fff" filter="url(#filter3194)" opacity=".15"/>
+ </g>
+</svg>

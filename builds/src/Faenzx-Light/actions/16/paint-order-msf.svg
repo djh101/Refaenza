@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg32" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata36">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .45454 0 5.4546)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m4 3a1 1.0001 0 0 0-1 1v11a1.0001 1.0001 0 0 0 1 1h1a1.0001 1.0001 0 0 0 1-1 1.0001 1.0001 0 0 0 1 1h8a1.0001 1.0001 0 0 0 1-1v-8a1.0001 1.0001 0 0 0-1-1 1.0001 1.0001 0 0 0 1-1v-1a1.0001 1.0001 0 0 0-1-1h-7-4zm0 1h4 7v1h-2v1h-2v-1h-2v1h-2v-1h-2v2h1v2h-1v2h1v2h-1v2h-1v-11zm3 3h8v8h-8v-8z" fill="#fff" opacity=".05"/>
+ <path id="base" d="m4 4v11h1v-2h1v-2h-1v-2h1v-2h-1v-2h2v1h2v-1h2v1h2v-1h2v-1h-7zm3 3v8h8v-8z" fill="url(#gr0)"/>
+ <path id="path15" d="m7 1c-3.3137 0-6 2.6863-6 6 0.0021 1.7048 0.72929 3.3283 2 4.4648v-7.4648c5.5e-5 -0.55226 0.44774-0.99994 1-1h7.4629c-1.1361-1.2702-2.7587-1.9974-4.4629-2z" opacity=".2"/>
+ <path id="path17" d="m4 4v11h1v-2h1v-2h-1v-2h1v-2h-1v-2h2v1h2v-1h2v1h2v-1h2v-1h-7-4zm0.5 0.5h0.5a0.50005 0.50005 0 0 0-0.5 0.5v-0.5zm2.5 0h1 1a0.50005 0.50005 0 0 0-0.5 0.5v0.5h-1v-0.5a0.50005 0.50005 0 0 0-0.5-0.5zm4 0h2a0.50005 0.50005 0 0 0-0.5 0.5v0.5h-1v-0.5a0.50005 0.50005 0 0 0-0.5-0.5zm-6.5 2.5a0.50005 0.50005 0 0 0 0.5 0.5h0.5v1h-0.5a0.50005 0.50005 0 0 0-0.5 0.5v-2zm2.5 0v8h8v-8h-8zm0.5 0.5h7v7h-7v-7zm-3 3.5a0.50005 0.50005 0 0 0 0.5 0.5h0.5v1h-0.5a0.50005 0.50005 0 0 0-0.5 0.5v-2z" opacity=".3"/>
+ <path id="path22" d="m5 5v1h2v-1h-2zm2 1v1h2v-1h-2zm2 0h2v-1h-2v1zm2 0v1h2v-1h-2zm2 0h2v-1h-2v1zm-8 3v1h1v-1h-1zm0 4v1h1v-1h-1zm-1 2v1h1v-1h-1zm3 0v1h8v-1h-8z" fill="#fff" opacity=".2"/>
+ <path id="path27" d="m4 4v1h1 2 1 1 2 2 2v-1h-7-4zm1 3v1h1v-1h-1zm2 0v1h8v-1h-2-2-2-2zm-2 4v1h1v-1h-1z" opacity=".3"/>
+</svg>

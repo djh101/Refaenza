@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2408" width="96" height="96" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2410">
+  <linearGradient id="linearGradient3236">
+   <stop id="stop3238" stop-color="#818181" offset="0"/>
+   <stop id="stop3242" stop-color="#f9f9f9" offset=".2"/>
+   <stop id="stop3240" stop-color="#dcdcdc" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="ButtonShadow" x1="45.448" x2="45.448" y1="92.54" y2="7.0165" gradientTransform="scale(1.0059 .99417)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3750" offset="0"/>
+   <stop id="stop3752" stop-opacity=".58824" offset="1"/>
+  </linearGradient>
+  <filter id="filter3174" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3176" stdDeviation="1.71"/>
+  </filter>
+  <radialGradient id="radialGradient3197" cx="90" cy="90" r="42" gradientTransform="matrix(0 -1.085 2 0 -90 187.65)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3702" stop-color="#b4b4b4" offset="0"/>
+   <stop id="stop3704" stop-color="#dcdcdc" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3220" x1="24" x2="88" y1="34" y2="14" gradientUnits="userSpaceOnUse">
+   <stop id="stop3739" stop-color="#fff" offset="0"/>
+   <stop id="stop3741" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3234" x1="6" x2="24" y1="73" y2="73" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3236"/>
+  <linearGradient id="linearGradient3246" x1="6" x2="24" y1="73" y2="73" gradientTransform="matrix(-1,0,0,1,96,0)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3236"/>
+  <linearGradient id="ButtonShadow-0" x1="45.448" x2="45.448" y1="92.54" y2="7.0165" gradientTransform="matrix(1.0059 0 0 .99417 100 0)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3750-8" offset="0"/>
+   <stop id="stop3752-5" stop-opacity=".58824" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3780" x1="32.251" x2="32.251" y1="6.1317" y2="90.239" gradientTransform="matrix(1.0238 0 0 1.0119 -1.1429 -98.071)" gradientUnits="userSpaceOnUse" xlink:href="#ButtonShadow-0"/>
+  <linearGradient id="linearGradient3721" x1="32.251" x2="32.251" y1="6.1317" y2="90.239" gradientTransform="translate(0,-97)" gradientUnits="userSpaceOnUse" xlink:href="#ButtonShadow-0"/>
+  <linearGradient id="linearGradient3685" x1="38.748" x2="38.748" y1="32.03" y2="5.8332" gradientUnits="userSpaceOnUse">
+   <stop id="stop3201" stop-color="#dcdcdc" offset="0"/>
+   <stop id="stop3203" stop-color="#fafafa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata2413">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer2" display="none">
+  <rect id="rect3745" x="5" y="7" width="86" height="85" rx="6" ry="6" fill="url(#ButtonShadow)" filter="url(#filter3174)" opacity=".9"/>
+ </g>
+ <g id="layer6">
+  <path id="path3786" transform="scale(1,-1)" d="m12-95.031c-5.5111 0-10.031 4.5202-10.031 10.031v71c0 5.5111 4.5202 10.031 10.031 10.031h72c5.5111 0 10.031-4.5202 10.031-10.031v-71c0-5.5111-4.5202-10.031-10.031-10.031h-72z" fill="url(#linearGradient3780)" opacity=".08"/>
+  <path id="path3778" transform="scale(1,-1)" d="m12-94.031c-4.9716 0-9.0312 4.0596-9.0312 9.0312v71c0 4.9716 4.0596 9.0312 9.0312 9.0312h72c4.9716 0 9.0312-4.0596 9.0312-9.0312v-71c0-4.9716-4.0596-9.0312-9.0312-9.0312h-72z" fill="url(#linearGradient3780)" opacity=".1"/>
+  <path id="path3770" transform="scale(1,-1)" d="m12-93c-4.4091 0-8 3.5909-8 8v71c0 4.4091 3.5909 8 8 8h72c4.4091 0 8-3.5909 8-8v-71c0-4.4091-3.5909-8-8-8h-72z" fill="url(#linearGradient3780)" opacity=".2"/>
+  <rect id="rect3723" transform="scale(1,-1)" x="5" y="-92" width="86" height="85" rx="7" ry="7" fill="url(#linearGradient3780)" opacity=".3"/>
+  <rect id="rect3716" transform="scale(1,-1)" x="6" y="-91" width="84" height="84" rx="6" ry="6" fill="url(#linearGradient3721)" opacity=".45"/>
+ </g>
+ <g id="layer1">
+  <rect id="rect2419" x="6" y="6" width="84" height="84" rx="6" ry="6" fill="url(#radialGradient3197)"/>
+  <path id="rect3222" d="m6 26v58c0 3.324 2.676 6 6 6h12v-64h-18z" fill="url(#linearGradient3234)"/>
+  <path id="path3244" d="m90 26v58c0 3.324-2.676 6-6 6h-12v-64h18z" fill="url(#linearGradient3246)"/>
+  <path id="rect2412" d="m6 82v2c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-2c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6z" opacity=".15"/>
+  <g id="g3687" transform="translate(0,-2)">
+   <path id="path3187" d="m6 58v2c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-2c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6z" fill="#fff" opacity=".8"/>
+   <path id="path3189" d="m6 56v2c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-2c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6z" opacity=".15"/>
+  </g>
+  <g id="g3691">
+   <path id="path3191" d="m6 42v2c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-2c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6z" fill="#fff" opacity=".8"/>
+   <path id="path3193" d="m6 40v2c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-2c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6z" opacity=".15"/>
+  </g>
+  <path id="rect3195" d="m12 6h72c3.324 0 6 2.676 6 6v16c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6v-16c0-3.324 2.676-6 6-6z" fill="url(#linearGradient3685)"/>
+  <path id="rect3207" d="m12 6c-3.324 0-6 2.676-6 6v16c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-16c0-3.324-2.676-6-6-6h-72zm0 2h72c2.2458 0 4 1.7542 4 4v16c0 2.2458-1.7542 4-4 4h-72c-2.2458 0-4-1.7542-4-4v-16c0-2.2458 1.7542-4 4-4z" fill="url(#linearGradient3220)"/>
+  <g id="g3695" transform="translate(0,12)">
+   <path id="path3697" d="m6 58v2c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-2c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6z" fill="#fff" opacity=".8"/>
+   <path id="path3699" d="m6 56v2c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-2c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6z" opacity=".15"/>
+  </g>
+ </g>
+</svg>

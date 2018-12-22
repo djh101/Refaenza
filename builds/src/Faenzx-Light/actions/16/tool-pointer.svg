@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg30" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .63636 0 3.6364)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m3.9727 1a1 1.0001 0 0 0-0.97266 1v0.92383 9.0762a1.0001 1.0001 0 0 0 1 1h0.82227a1.0001 1.0001 0 0 0 0.88671-0.5371l0.81641-1.5645 2.1465 3.6114a1.0001 1.0001 0 0 0 0.85937 0.4902h2.4688a1.0001 1.0001 0 0 0 0.8398-1.543l-2.8867-4.457h2.0469a1.0001 1.0001 0 0 0 1-1v-0.8457a1.0001 1.0001 0 0 0-0.459-0.8418l-8-5.1523a1.0001 1.0001 0 0 0-0.56836-0.16016zm0.02734 1 8 5.1543v0.8457h-3.8848l3.8848 6h-2.4688l-3.0625-5.1543-1.6465 3.1543h-0.82227v-9.0762-0.92383z" fill="#fff" opacity=".05"/>
+ <path id="base" d="m4 2.9231v9.0769h.8231l1.6461-3.1538 3.0616 5.1538h2.4692l-3.8846-6h3.8846v-.8462l-8-5.1538z" fill="url(#gr0)"/>
+ <path id="path15" d="m4 2v0.92383 9.0762h0.82227l1.6465-3.1543 3.0625 5.1543h2.4688l-3.8848-6h3.8848v-0.8457l-8-5.1543zm0.5 0.91602 7 4.5098v0.07422h-3.3848a0.50005 0.50005 0 0 0-0.41992 0.77148l3.3848 5.2285h-1.2656l-2.916-4.9082a0.50005 0.50005 0 0 0-0.87305 0.02343l-1.5059 2.8848h-0.01953v-8.5762-0.00781z" opacity=".3"/>
+ <path id="path20" d="m8.1152 8 0.64649 1h3.2383v-0.8457l-0.2402-0.1543h-3.6446zm-1.6465 0.8457-1.6465 3.1543h-0.82227v1h0.82227l1.6465-3.1543 3.0625 5.1543h2.4688l-0.6484-1h-1.8204l-3.0625-5.1543z" fill="#fff" opacity=".2"/>
+ <path id="path25" d="m4 2v0.92383 0.07617l7.7598 5h0.2402v-0.8457l-8-5.1543zm4.1152 7 3.2364 5h0.6484l-3.2383-5h-0.64649z" opacity=".3"/>
+</svg>

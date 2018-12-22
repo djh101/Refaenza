@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg25" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata29">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <linearGradient id="gr0" x1="11" x2="11" y1="2" y2="20" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-color="#ebebeb" offset="0"/>
+   <stop id="stop4" stop-color="#aaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="path9" d="m6.5 1c-1.3677 0-2.5 1.1323-2.5 2.5v9c0 1.3677 1.1323 2.5 2.5 2.5h0.5a1.0001 1.0001 0 0 0-0.70703 1.707l4 4a1.0001 1.0001 0 0 0 1.414 0l4-4a1.0001 1.0001 0 0 0-0.707-1.707h0.5c1.3677 0 2.5-1.1323 2.5-2.5v-9c0-1.3677-1.1323-2.5-2.5-2.5h-9zm0 1h9c0.831 0 1.5 0.669 1.5 1.5v9c0 0.831-0.669 1.5-1.5 1.5h-9c-0.831 0-1.5-0.669-1.5-1.5v-9c0-0.831 0.669-1.5 1.5-1.5zm1 2c-0.277 0-0.5 0.223-0.5 0.5v7c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-7c0-0.277-0.223-0.5-0.5-0.5h-7zm0.5 1h6v6h-6v-6zm-1 11h8l-4 4-4-4z" opacity=".25"/>
+ <path id="base" d="m6.5 2c-0.831 0-1.5 0.669-1.5 1.5v9c0 0.831 0.669 1.5 1.5 1.5h9c0.831 0 1.5-0.669 1.5-1.5v-9c0-0.831-0.669-1.5-1.5-1.5zm1 2h7c0.277 0 0.5 0.223 0.5 0.5v7c0 0.277-0.223 0.5-0.5 0.5h-7c-0.277 0-0.5-0.223-0.5-0.5v-7c0-0.277 0.223-0.5 0.5-0.5zm-0.5 12 4 4 4-4z" fill="url(#gr0)"/>
+ <path id="path15" d="m7.5 4c-0.277 0-0.5 0.223-0.5 0.5v1c0-0.277 0.223-0.5 0.5-0.5h7c0.277 0 0.5 0.223 0.5 0.5v-1c0-0.277-0.223-0.5-0.5-0.5h-7zm-2.5 8.5v1c0 0.831 0.669 1.5 1.5 1.5h9c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-9c-0.831 0-1.5-0.669-1.5-1.5zm2 4.5 4 4 4-4h-1l-3 3-3-3h-1z" opacity=".45"/>
+ <path id="path20" d="m6.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h9c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-9zm0.5 9.5v1c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-1c0 0.277-0.223 0.5-0.5 0.5h-7c-0.277 0-0.5-0.223-0.5-0.5zm0 4.5 1 1h6l1-1h-8z" fill="#fff" opacity=".6"/>
+</svg>

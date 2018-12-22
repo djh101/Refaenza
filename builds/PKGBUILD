@@ -1,0 +1,139 @@
+# Maintainer: Drew
+
+pkgname=faenzx-icon-theme
+pkgver=0.6.1
+pkgrel=2
+pkgdesc="Variations on Faience and Faenza icon themes."
+arch=('any')
+license=('GPL3')
+depends=('faenza-icon-theme')
+
+package() {
+	pkgdir1=$pkgdir/usr/share/icons
+	#themes=(Faenzx Faenzx-Light Faenzx-Blue Faenzx-Green Faenzx-Orange Faenzx-Chrome Faenzx-Chrome-Light)
+	themes=(Faenzx Faenzx-Chrome Faenzx-Light Faenzx-Chrome-Light)
+
+	mkdir -p $pkgdir1
+	for d in "${themes[@]}"; do 
+		cp -nr $srcdir/$d $pkgdir1
+	done
+	
+	# Loop twice to catch missing links
+	for i in 1 2; do
+		echo "Stage ${i}/3..."
+		for t in "${themes[@]}"; do
+			echo "Building ${t}..."
+			cd $pkgdir1/$t
+			# Create symlinks
+			for lst in $srcdir/*.lst; do
+				d0=${lst%.lst}
+				d0=${d0##*/}
+				[ -d "$srcdir/$t/$d0" ] || continue
+				# Loop over lines in symlink file
+				while read l; do
+					# First symbol becomes link target
+					f=${l%% *}
+					f0=${f##*:};
+					d1=${f%%:*}
+					[ "$d1" = "$f" ] && d1=$d0
+					l=${l#* }
+					# Loop over icon sizes
+					for n in 16 24 96; do
+						# Continue if target not exists
+						! [ -e "$d1/$n/${f0}.svg" ] && continue
+						# Loop over symbol names
+						for f in $l; do
+							d=${f%%:*}
+							[ "$d" = "$f" ] && d=$d0
+							f=${f##*:}
+							# mkdir if not exists
+							[ -d "$d" ] || mkdir $d
+							cd $d
+							[ -d "$n" ] || mkdir $n
+							cd $n
+							# Check if target file exists and link file does not exist
+							[ "$d" = "$d1" ] && d1f="" || d1f="../../$d1/$n/"
+							if ! [ -e "${f}.svg" ]; then
+								ln -s ${d1f}${f0}.svg ${f}.svg
+							fi
+							cd ../
+							# Remove directoy if empty
+							[ -z "$(ls $n)" ] && rm -r $n
+							cd ../
+							[ -z "$(ls $d)" ] && rm -r $d
+						done
+					done
+				done < $srcdir/$d0.lst
+			done
+		done
+	done
+
+	cd $pkgdir1/Faenzx
+
+	# Create symbolic symlinks
+	cd symbolic
+	while read l; do
+		f0=""
+		for f in $l; do
+			rtl=${f##-}
+			[ "$rtl" = "rtl" ] && rtl='-rtl' || rtl=''
+			f=${f%-rtl}
+			if [ -z "$f0" ]; then
+				f0=$f
+				rtl0=$rtl
+			else
+				if [ -e "${f0}-symbolic${rtl}.svg" ] && ! [ -e "${f}-symbolic${rtl}.svg" ]; then
+					ln -s ${f0}-symbolic${rtl0}.svg ${f}-symbolic${rtl}.svg
+				fi
+			fi
+		done
+	done < $srcdir/symbolic.lst
+	cd ../
+
+	# Link to Faenzx Icons
+	echo "Stage 3/3..."
+	cd $pkgdir1/Faenzx
+	for c in *; do
+		for t in "${themes[@]}"; do
+			echo "Building ${t}..."
+			##[ "$t" == "Faenzx" ] && continue;
+			##[ "$t" == "Faenzx-Chrome-Light" ] && t0="Faenzx-Light" || t0="Faenzx";
+			t0=$(grep '^Inherits=' $srcdir/$t/index.theme | sed 's/Inherits=\(.\+\)/\1/')
+			
+			cd $pkgdir1/$t
+
+			# Skip directory if not exists
+			[ -d "$c" ] || continue
+			
+			cd $c
+
+			# Loop over icon sizes
+			for n in 16 24 96; do
+				# Continue if Faenzx directory does not exist
+				[ -d "$pkgdir1/Faenzx/$c/$n" ] || continue
+				# Symlink entire directory if not exists
+				if ! [ -d "$n" ]; then
+					# Link to parent theme if folder exists
+					[ -d "$pkgdir1/$t0/$c/$n" ] && d=$t0 || d=Faenzx
+					ln -s /usr/share/icons/$d/$c/$n $n
+					continue
+				fi
+
+				cd $n
+
+				# Check for icons in Faenzx
+				for f in $pkgdir1/Faenzx/$c/$n/*; do
+					f=${f##*/}
+					# Link to parent theme if folder exists
+					[ -d "$pkgdir1/$t0/$c/$n" ] && d=$t0 || d=Faenzx
+					# Create link if file not exists
+					! [ -e "$f" ] && [ "$f" == "${f%.2.svg}" ] && ln -s /usr/share/icons/$t0/$c/$n/$f $f
+					echo "B: ln -s /usr/share/icons/$t0/$c/$n/$f $f" ###
+				done
+				
+				cd ../
+			done
+			cd ../
+		done
+	done
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg36" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata40">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .36363 0 6.3637)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m7.984 4a1 1 0 0 0-0.691 0.293l-5 5a1 1 0 0 0 0.707 1.707h10a1 1 0 0 0 0.71-1.707l-5.003-5a1 1 0 0 0-0.723-0.293zm0.016 1 5 5h-10l5-5z" fill="#fff" opacity=".05"/>
+ <path id="base" d="m13 10-5-5-5 5z" fill="url(#gr0)"/>
+ <path id="path17" d="m8 5-5 5h10l-5-5zm0 0.707 3.79 3.793h-7.583l3.793-3.793z" opacity=".3"/>
+ <path id="path24" d="m4 10-1 1h10l-1-1h-8z" fill="#fff" opacity=".2"/>
+ <path id="path31" d="m8 5-5 5h1l4-4 4 4h1l-5-5z" opacity=".3"/>
+</svg>

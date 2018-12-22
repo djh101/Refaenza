@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2897" x1="9.0575" x2="9.0575" y1="10.203" y2="-19.304" gradientTransform="translate(-.49972 5.3007)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3330-6" offset="0"/>
+   <stop id="stop3333-8" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3767" x1="1" x2="16.956" y1="9" y2="9" gradientTransform="translate(-17,-2)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3189-0" stop-color="#e6e6e6" offset="0"/>
+   <stop id="stop3191-2" stop-color="#f5f5f5" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect3196" transform="rotate(-90)" x="-16" width="16" height="16" rx="2" ry="2" fill="url(#linearGradient3767)"/>
+  <path id="rect2410" d="m2 0c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2h-12zm0.5 1h11c0.831 0 1.5 0.669 1.5 1.5v11c0 0.831-0.669 1.5-1.5 1.5h-11c-0.831 0-1.5-0.669-1.5-1.5v-11c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient2897)" opacity=".4"/>
+  <path id="rect3770" d="m2.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h11c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-11z" fill="#fff" opacity=".6"/>
+  <path id="path3359" d="m6.657 2.8294c-0.59106 0.009045-1.2962 0.16199-2.1695 0.52017l-1.1444 3.9407c0.92589-0.37912 1.6526-0.55647 2.2649-0.55169 0.92848 0.00683 1.5781 0.39026 2.1854 0.79602l1.1523-3.9249c-0.63054-0.42293-1.3036-0.79533-2.2887-0.78025zm2.8927 1.198-1.1444 3.9407c1.0061 0.67651 2.2205 1.2336 4.4503 0.24432l1.1444-3.9328c-2.3257 0.95313-3.4435 0.42045-4.4503-0.2522zm-4.2358 3.4678c-0.59055 0.01425-1.2912 0.1646-2.1616 0.52017h-0.015893l-1.1364 3.9249c2.3304-0.95552 3.4326-0.40542 4.4424 0.26797l1.1603-3.9564c-0.6288-0.42339-1.3045-0.78035-2.2887-0.75661zm2.9007 1.1349-1.1523 3.917c1.0079 0.67779 2.1305 1.2228 4.4583 0.26797l1.1046-3.8225c-2.3717 0.80417-3.4015 0.31066-4.4106-0.36254z" fill="#a0a0a0"/>
+ </g>
+</svg>

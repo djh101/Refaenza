@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient3683">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3327">
+   <stop stop-color="#929292" offset="0"/>
+   <stop stop-color="#c8c8c8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3766" x1="9.06" x2="9.06" y1="10.2" y2="-12.2" gradientTransform="translate(-.5 5.3)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3327"/>
+  <linearGradient id="linearGradient3665" x1="6" x2="6" y1="15" y2="11" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dcdcdc" offset="0"/>
+   <stop stop-color="#f0f0f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3689" x1="8.57e-16" x2="6.12e-16" y1="5" y2="1" gradientTransform="translate(1)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3683"/>
+  <linearGradient id="linearGradient3693" x1="8.57e-16" x2="6.12e-16" y1="5" y2="1" gradientTransform="translate(14)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3683"/>
+  <linearGradient id="linearGradient3695" x1="1" x2="12" y1="9" y2="9" gradientTransform="translate(-1,-2)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a0a0a0" offset="0"/>
+   <stop stop-color="#d2d2d2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3716" x1="9.06" x2="9.06" y1="10.2" y2="-12.2" gradientTransform="translate(19.5 5.3)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3327"/>
+  <linearGradient id="linearGradient3710" x1="33.4" x2="-7.2" y1="20.4" y2="20.4" gradientTransform="matrix(0 -.369 -.295 0 16.5 13.3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3713" x1="12.8" x2="37.8" y1="14" y2="14" gradientTransform="matrix(0 .319 -.291 0 15.9 -3.09)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f8cd70" offset="0"/>
+   <stop stop-color="#cc9110" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(0,1,1,0,0,0)" width="16" height="16" rx="2" ry="2" fill="url(#linearGradient3695)"/>
+ <path d="m0 11v3c0 1.11 0.892 2 2 2h12c1.11 0 2-0.892 2-2v-3h-5l-1 1h-4l-1-1h-5z" fill="url(#linearGradient3665)"/>
+ <path d="m1 11v1h4l1 1h4l1-1h4v-1h-4l-1 1h-4l-1-1h-4z" fill="#fff"/>
+ <path d="m2 0c-1.11 0-2 0.892-2 2v3h16v-3c0-1.11-0.892-2-2-2h-12z" fill="#d2d2d2"/>
+ <path d="m2 0c-1.11 0-2 0.892-2 2v12c0 1.11 0.892 2 2 2h12c1.11 0 2-0.892 2-2v-12c0-1.11-0.892-2-2-2h-12zm0.5 1h11c0.831 0 1.5 0.669 1.5 1.5v11c0 0.831-0.669 1.5-1.5 1.5h-11c-0.831 0-1.5-0.669-1.5-1.5v-11c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient3766)"/>
+ <rect x="-19" y="1" width="14" height="14" rx="1.5" ry="1.5" opacity=".2"/>
+ <rect x="1" y="1" width="1" height="10" fill="url(#linearGradient3689)"/>
+ <rect x="14" y="1" width="1" height="10" fill="url(#linearGradient3693)"/>
+ <rect x="2" y="4" width="12" height="1" opacity=".2"/>
+ <path d="m22 0c-1.11 0-2 0.892-2 2v12c0 1.11 0.892 2 2 2h12c1.11 0 2-0.892 2-2v-12c0-1.11-0.892-2-2-2h-12zm0.5 1h11c0.831 0 1.5 0.669 1.5 1.5v11c0 0.831-0.669 1.5-1.5 1.5h-11c-0.831 0-1.5-0.669-1.5-1.5v-11c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient3716)" opacity=".4"/>
+ <path d="m2 9v1h3l1 1h4l1-1h3v-1h-3l-1 1h-4l-1-1h-3z" opacity=".06"/>
+ <path d="m2 10v1h3l1 1h4l1-1h3v-1h-3l-1 1h-4l-1-1h-3z" opacity=".15"/>
+ <path d="m2.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h11c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-11z" fill="#fff" opacity=".4"/>
+ <g stroke-width=".998">
+  <path d="m12.8 5.5-4.81-5-4.79 5h2.48v3h4.64v-3h2.48z" fill="url(#linearGradient3713)" stroke="#bf8407" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m10.4 4.52-2.38-2.52-2.47 2.52h1.25v2.98h2.44v-2.98h1.16z" fill="none" opacity=".354" stroke="url(#linearGradient3710)"/>
+ </g>
+</svg>

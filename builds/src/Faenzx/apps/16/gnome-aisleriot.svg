@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3629" x2="29.017" y1="8" y2="8" gradientTransform="matrix(0,-1,1,0,0,16)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3330" offset="0"/>
+   <stop id="stop3333" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3840" x1="69.087" x2="69.087" y1="60.327" y2="36.596" gradientTransform="matrix(.20854 0 0 .20833 -3.1354 -1.5)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3836" stop-color="#d40000" offset="0"/>
+   <stop id="stop3838" stop-color="#d41400" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3745" x1="-3.0608" x2="-3.0608" y1="27.258" y2="7.2537" gradientTransform="translate(13.119 -23.258)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3672" stop-color="#f0f0f0" offset="0"/>
+   <stop id="stop3674" stop-color="#dcdcdc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3768" x1="-3.0608" x2="-3.0608" y1="27.258" y2="7.2537" gradientTransform="translate(10.119 -7.2582)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3118" stop-color="#2f5fa7" offset="0"/>
+   <stop id="stop3120" stop-color="#6792d4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3161" x1="-3.0608" x2="-3.0608" y1="27.258" y2="12.258" gradientTransform="translate(-9.8806 -11.258)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3713" stop-color="#224478" offset="0"/>
+   <stop id="stop3715" stop-color="#376ec2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect3764" width="14" height="16" rx="2" ry="2" fill="url(#linearGradient3768)" fill-rule="evenodd"/>
+  <path id="path3774" d="m-18 1c-0.5683 0-1 0.4317-1 1v12c0 0.5683 0.4317 1 1 1h10c0.5683 0 1-0.4317 1-1v-12c0-0.5683-0.4317-1-1-1z" fill="url(#linearGradient3161)" fill-rule="evenodd"/>
+  <rect id="rect3173" transform="scale(1,-1)" x="4" y="-16" width="12.008" height="16" rx="2" ry="2" fill="url(#linearGradient3745)" fill-rule="evenodd"/>
+  <path id="path3805" d="m8.7512 6c-0.69103 0-1.2512 0.55964-1.2512 1.2 0 0.043146 6.36e-4 0.084932 0.0049 0.12695 0.10793 1.9016 2.4975 3.673 2.4975 3.673s2.3867-1.8453 2.4976-3.623c0.0043-0.042021 0.0049-0.083806 0.0049-0.12695 2e-5 -0.69036-0.56017-1.25-1.2512-1.25s-1.2512 0.55964-1.2512 1.2c0-0.64036-0.56019-1.2-1.2512-1.2z" color="#000000" fill="url(#linearGradient3840)"/>
+  <path id="rect3755" d="m6 0c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h1c-1.108 0-2-0.892-2-2v-12c0-1.108 0.892-2 2-2z" fill-rule="evenodd" opacity=".3"/>
+  <text id="text3790" transform="scale(1.0127 .9875)" x="4.8275442" y="4.0506258" fill="#d40000" font-family="Liberation Sans" font-size="4.4157px" font-weight="bold" style="line-height:125%" xml:space="preserve"><tspan id="tspan3792" x="4.8275442" y="4.0506258">A</tspan></text>
+  <text id="text3794" transform="scale(1.0127 -.9875)" x="11.740062" y="-12.151875" fill="#d40000" font-family="Liberation Sans" font-size="4.4157px" font-weight="bold" style="line-height:125%" xml:space="preserve"><tspan id="tspan3796" x="11.740062" y="-12.151875">A</tspan></text>
+  <path id="rect2835" d="m0 14c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2h-12c-1.108 0-2 0.892-2 2v12zm0.96875 0v-12c0-0.5832 0.44805-1.0312 1.0312-1.0312h12c0.5832 0 1.0312 0.44805 1.0312 1.0312v12c0 0.5832-0.44805 1.0312-1.0312 1.0312h-12c-0.5832 0-1.0312-0.44805-1.0312-1.0312z" fill="url(#linearGradient3629)" opacity=".4"/>
+  <path id="path2843" d="m2 0.96875c-0.5832 0-1.0312 0.44805-1.0312 1.0312v1c0-0.5832 0.44805-1.0312 1.0312-1.0312h12c0.5832 0 1.0312 0.44805 1.0312 1.0312v-1c0-0.5832-0.44805-1.0312-1.0312-1.0312h-12z" fill="#fff" opacity=".35"/>
+  <path id="path3081" d="m4 0c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h1c-1.108 0-2-0.892-2-2v-12c0-1.108 0.892-2 2-2z" fill-rule="evenodd" opacity=".3"/>
+ </g>
+</svg>

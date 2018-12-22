@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg32" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata36">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .18181 0 8.1819)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m8 6c-0.81821 0-1.3964 0.58074-1.7031 1.2969-0.71615 0.30674-1.2969 0.88491-1.2969 1.7031v5c0 1.0907 0.9093 2 2 2h7c1.0907 0 2-0.9093 2-2v-5c0-1.0907-0.9093-2-2-2h-1-1.4199c-0.3573-0.56123-0.8766-1-1.5801-1h-2zm0 1h2c0.554 0 1 0.446 1 1h2 1c0.554 0 1 0.446 1 1v5c0 0.554-0.446 1-1 1h-7c-0.554 0-1-0.446-1-1v-5c0-0.554 0.446-1 1-1 0-0.554 0.446-1 1-1z" fill="#fff" opacity=".05"/>
+ <path id="base" d="m8 7c-0.554 0-1 0.446-1 1-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h7c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1h-1-2c0-0.554-0.446-1-1-1h-2z" fill="url(#gr0)"/>
+ <path id="path15" d="m3 1c-0.554 0-1 0.446-1 1-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h3.0312c0-0.80154 0.5789-1.3892 1.2812-1.6875 0.29826-0.70235 0.88596-1.2812 1.6875-1.2812h2v-3.0312c0-0.554-0.446-1-1-1h-1-2c0-0.554-0.446-1-1-1h-2z" opacity=".2"/>
+ <path id="path17" d="m8 7c-0.554 0-1 0.446-1 1-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h7c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1h-1-2c0-0.554-0.446-1-1-1h-2zm0 0.5h2c0.2856 0 0.5 0.21435 0.5 0.5a0.50005 0.50005 0 0 0 0.5 0.5h2 1c0.2856 0 0.5 0.21435 0.5 0.5v5c0 0.2856-0.2144 0.5-0.5 0.5h-7c-0.28565 0-0.5-0.2144-0.5-0.5v-5c0-0.28565 0.21435-0.5 0.5-0.5a0.50005 0.50005 0 0 0 0.5-0.5c0-0.28565 0.21435-0.5 0.5-0.5z" opacity=".3"/>
+ <path id="path22" d="m6 14v1c0 0.554 0.446 1 1 1h7c0.554 0 1-0.446 1-1v-1c0 0.554-0.446 1-1 1h-7c-0.554 0-1-0.446-1-1z" fill="#fff" opacity=".2"/>
+ <path id="path27" d="m8 7c-0.554 0-1 0.446-1 1-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1 0-0.554 0.446-1 1-1h2c0.554 0 1 0.446 1 1h2 1c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-1-2c0-0.554-0.446-1-1-1h-2z" opacity=".3"/>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg23" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata27">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <linearGradient id="gr0" x1="8" x2="8" y1="1" y2="15" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-color="#ebebeb" offset="0"/>
+   <stop id="stop4" stop-color="#aaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="path9" d="m3.5 0c-1.3677 0-2.5 1.1323-2.5 2.5v11c0 1.3677 1.1323 2.5 2.5 2.5h9c1.3677 0 2.5-1.1323 2.5-2.5v-11c0-1.3677-1.1323-2.5-2.5-2.5zm3 5.8652a1 1.0001 0 0 0 0.5 0.13477h1a1.0001 1.0001 0 0 0 0.12695-0.00977l-0.49219 1.2305-0.92773-0.92773a1.0001 1.0001 0 0 0-0.70703-0.29297 1.0001 1.0001 0 0 0 0.5-0.13477zm-1.5 0.13477h0.98438a1.0001 1.0001 0 0 0-0.93359 0.68359l-0.050781 0.15234z" opacity=".25"/>
+ <path id="base" d="m3.5 1c-0.831 0-1.5 0.669-1.5 1.5v11c0 0.831 0.669 1.5 1.5 1.5h9c0.831 0 1.5-0.669 1.5-1.5v-11c0-0.831-0.669-1.5-1.5-1.5h-9zm1 2h7c0.277 0 0.5 0.223 0.5 0.5v9c0 0.277-0.223 0.5-0.5 0.5h-7c-0.277 0-0.5-0.223-0.5-0.5v-9c0-0.277 0.223-0.5 0.5-0.5zm0.5 1v1h1v-1h-1zm2 0v1h1v-1h-1zm3 0-2 5-2-2-1 3h6l-1-6zm-5 7v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1z" fill="url(#gr0)"/>
+ <path id="path13" d="m3.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h9c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-9zm1.5 3v1h1v-1h-1zm2 0v1h1v-1h-1zm3 0-2 5-2-2-1 3h0.33398l0.66602-2 2 2 2-5 0.83398 5h0.16602l-1-6zm-5 7v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm-5 1.5v1c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-1c0 0.277-0.223 0.5-0.5 0.5h-1.5-1-1-1-1-1-0.5c-0.277 0-0.5-0.223-0.5-0.5z" fill="#fff" opacity=".6"/>
+ <path id="path18" d="m4.5 3c-0.277 0-0.5 0.223-0.5 0.5v1c0-0.277 0.223-0.5 0.5-0.5h0.5 1 1 1 2 1.5c0.277 0 0.5 0.223 0.5 0.5v-1c0-0.277-0.223-0.5-0.5-0.5h-7zm0.5 2v1h1v-1h-1zm2 0v1h1v-1h-1zm-1.666 5-0.33398 1h1 1 1 1 1 1l-0.16602-1h-2.834-2.666zm-0.33398 2v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm-7 1.5v1c0 0.831 0.669 1.5 1.5 1.5h9c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-9c-0.831 0-1.5-0.669-1.5-1.5z" opacity=".45"/>
+</svg>

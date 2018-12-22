@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg29" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata33">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <linearGradient id="gr0" x1="8" x2="8" y1="1" y2="14" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-color="#ebebeb" offset="0"/>
+   <stop id="stop4" stop-color="#aaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="path9" d="m6 0a1 1 0 0 0-0.975 0.7773l-0.509 2.2227h-2.516a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h1.588l-0.229 1h-2.359a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h1.434l-0.409 1.78a1 1 0 0 0 0.975 1.22h2a1 1 0 0 0 0.975-0.78l0.509-2.22h0.95l-0.409 1.78a1 1 0 0 0 0.975 1.22h2a1 1 0 0 0 0.97-0.78l0.51-2.22h2.52a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1h-1.59l0.23-1h2.36a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1h-1.43l0.4-1.777a1 1 0 0 0-0.97-1.223h-2a1 1 0 0 0-0.97 0.7773l-0.514 2.2227h-0.95l0.409-1.777a1 1 0 0 0-0.975-1.223h-2zm0 1h2l-0.688 3h2.998l0.69-3h2l-0.69 3h2.69v2h-3.16l-0.68 3h2.84v2h-3.31l-0.69 3h-2l0.688-3h-3l-0.688 3h-2l0.688-3h-2.688v-2h3.156l0.688-3h-2.844v-2h3.312l0.688-3zm0.844 5-0.688 3h3l0.688-3h-3zm0.797 1h0.947l-0.229 1h-0.949l0.231-1z" opacity=".25"/>
+ <path id="base" d="m6 1-.6875 3h-3.3125v2h2.8438l-.68750 3h-3.1562v2h2.6875l-.6875 3h2l.6875-3h3l-.6875 3h1.9999l.688-3h3.312v-2h-2.8438l.6875-3h3.1562v-2h-2.6875l.688-3h-2l-.6875 3h-3l.6875-3h-2zm.84375 5h3l-.6875 3h-3l.6875-3z" fill="url(#gr0)"/>
+ <path id="path17" d="m7.771 2-0.459 2h0.229l0.459-2h-0.229zm4.999 0-0.46 2h0.23l0.46-2h-0.23zm-10.77 4v1h2.615l0.229-1h-2.844zm4.844 0-0.688 3h0.229l0.459-2h2.771l0.229-1h-3zm4.996 0-0.68 3h0.23l0.45-2h3.16v-1h-3.16zm-10.84 5v1h2.459l0.229-1h-2.688zm4.688 0-0.688 3h-1.771l-0.229 1h2l0.688-3h2.771l0.229-1h-3zm5.002 0-0.69 3h-1.771l-0.229 1h2l0.69-3h3.31v-1h-3.31z" opacity=".45"/>
+ <path id="path24" d="m6 1-0.688 3h-3.312v1h3.312l0.688-3h1.771l0.229-1h-2zm5 0-0.69 3h-2.769l-0.229 1h2.998l0.69-3h1.77l0.23-1h-2zm1.54 3-0.23 1h2.69v-1h-2.46zm-7.925 3-0.459 2h-3.156v1h3.156l0.688-3h-0.229zm5 0-0.459 2h-2.771l-0.229 1h3l0.688-3h-0.229zm1.775 2-0.23 1h2.84v-1h-2.61zm-7.931 3-0.459 2h0.229l0.459-2h-0.229zm5 0-0.459 2h0.229l0.459-2h-0.229z" fill="#fff" opacity=".6"/>
+</svg>

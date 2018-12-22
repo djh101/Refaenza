@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg77" width="96" height="96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata id="metadata80">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs2410">
+  <filter id="filter3794" x="-.192" y="-.192" width="1.384" height="1.384">
+   <feGaussianBlur id="feGaussianBlur3796" stdDeviation="5.28"/>
+  </filter>
+  <linearGradient id="linearGradient3613" x1="48" x2="48" y1="20.221" y2="138.66" gradientUnits="userSpaceOnUse">
+   <stop id="stop3739" stop-color="#fff" offset="0"/>
+   <stop id="stop3741" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="buttonGradient" x1="48" x2="48" y1="90" y2="5.9877" gradientUnits="userSpaceOnUse">
+   <stop id="stop3702" stop-color="#0b3efd" offset="0"/>
+   <stop id="stop3704" stop-color="#137eff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="ButtonShadow-0" x1="45.448" x2="45.448" y1="92.54" y2="7.0165" gradientTransform="matrix(1.0059 0 0 .99417 100 0)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3750-8" offset="0"/>
+   <stop id="stop3752-5" stop-opacity=".58824" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3780" x1="32.251" x2="32.251" y1="6.1317" y2="90.239" gradientTransform="matrix(1.0238 0 0 1.0119 -1.1429 -98.071)" gradientUnits="userSpaceOnUse" xlink:href="#ButtonShadow-0"/>
+  <linearGradient id="linearGradient3721" x1="32.251" x2="32.251" y1="6.1317" y2="90.239" gradientTransform="translate(0,-97)" gradientUnits="userSpaceOnUse" xlink:href="#ButtonShadow-0"/>
+  <clipPath id="clipPath4355">
+   <rect id="rect4357" x="6" y="6" width="84" height="84" rx="6" ry="6" fill="#fff"/>
+  </clipPath>
+  <linearGradient id="linearGradient4390" x1="48" x2="48" y1="88" y2="-40" gradientTransform="matrix(1,0,0,-1,0,92)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4386" stop-color="#fff" offset="0"/>
+   <stop id="stop4388" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer3">
+  <g id="g32" fill="url(#linearGradient3780)">
+   <path id="path3786" transform="scale(1,-1)" d="m12-95.021c-5.5111 0-10.022 4.51-10.022 10.021v71c0 5.5111 4.5104 10.021 10.021 10.021h72c5.5111 0 10.021-4.5104 10.021-10.021v-71c0-5.5111-4.5104-10.021-10.021-10.021h-72z" opacity=".08"/>
+   <path id="path3778" transform="scale(1,-1)" d="m12-94.035c-4.9716 0-9.0352 4.0635-9.0352 9.0352v71c0 4.9716 4.0635 9.0352 9.0352 9.0352h72c4.9716 0 9.0352-4.0635 9.0352-9.0352v-71c0-4.9716-4.0635-9.0352-9.0352-9.0352h-72z" opacity=".1"/>
+   <path id="path3770" transform="scale(1,-1)" d="m12-92.99c-4.4091 0-7.9902 3.5811-7.9902 7.9902v71c0 4.4091 3.5811 7.9902 7.9902 7.9902h72c4.4091 0 7.9902-3.5811 7.9902-7.9902v-71c0-4.4091-3.5811-7.9902-7.9902-7.9902h-72z" opacity=".2"/>
+   <rect id="rect3723" transform="scale(1,-1)" x="5" y="-92" width="86" height="85" rx="7" ry="7" opacity=".3"/>
+  </g>
+  <rect id="rect3716" transform="scale(1,-1)" x="6" y="-91" width="84" height="84" rx="6" ry="6" fill="url(#linearGradient3721)" opacity=".45"/>
+ </g>
+ <g id="layer1">
+  <rect id="button" x="6" y="6" width="84" height="84" rx="6" ry="6" fill="url(#buttonGradient)"/>
+  <path id="rect4377" d="m12 6c-3.324 0-6 2.676-6 6v72c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-72c0-3.324-2.676-6-6-6zm0 2h72c2.805 0 5 2.195 5 5v70c0 2.805-2.195 5-5 5h-72c-2.805 0-5-2.195-5-5v-70c0-2.805 2.195-5 5-5z" fill="url(#linearGradient4390)" opacity=".3"/>
+ </g>
+ <g id="layer5">
+  <rect id="rect3171" x="15" y="15" width="66" height="66" rx="12" ry="12" clip-path="url(#clipPath4355)" fill="url(#linearGradient3613)" filter="url(#filter3794)" opacity=".1" stroke="#fff" stroke-linecap="round" stroke-width=".5"/>
+ </g>
+ <defs id="defs53">
+  <linearGradient id="a" x1="8" x2="8" y1="1" y2="15" gradientUnits="userSpaceOnUse">
+   <stop id="stop48" stop-color="#fafafa" offset="0"/>
+   <stop id="stop50" stop-color="#ebebeb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g74">
+  <path id="path823" transform="matrix(4,0,0,4,16,17)" d="m8 0.75c-1.898 0-3.7848 0.78093-5.127 2.123s-2.123 3.2289-2.123 5.127 0.78093 3.7848 2.123 5.127 3.2289 2.123 5.127 2.123 3.7848-0.78093 5.127-2.123 2.123-3.2289 2.123-5.127-0.78093-3.7848-2.123-5.127-3.2289-2.123-5.127-2.123zm-2.25 4.8555v1.3945a0.25002 0.25002 0 0 0 0.25 0.25h4.0059a0.25002 0.25002 0 0 0 0.25-0.25l-0.003906-1.3945 2.3945 2.3945-2.3945 2.3945 0.003906-1.3945a0.25002 0.25002 0 0 0-0.25-0.25h-4.0059a0.25002 0.25002 0 0 0-0.25 0.25v1.3945l-2.3965-2.3945z" opacity=".15"/>
+  <g id="Bevel1"></g>
+  <g id="Bevel2"></g>
+  <path id="base" transform="translate(16,16) scale(4)" d="m8 1a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7zm-2 4v2h4.0059l-0.005859-2 3 3-3 3 0.005859-2h-4.0059v2l-3-3 3-3z" fill="url(#a)"/>
+  <path id="path64" transform="translate(0,2)" d="m40 34-12 12 0.5 0.5 11.5-11.5v-1zm16 0 0.003906 1.0039 11.496 11.496 0.5-0.5-12-12zm-16 8v1h16.023l-0.003907-1h-16.02zm-19.979 4.4141a28 28 0 0 0-0.021484 0.58594 28 28 0 0 0 28 28 28 28 0 0 0 28-28 28 28 0 0 0-0.021484-0.41406 28 28 0 0 1-27.979 27.414 28 28 0 0 1-27.979-27.586zm35.998 4.5859-0.019531 7 0.003906-0.003906 0.019532-6.9961h-0.003907z" opacity=".3" stroke-width="4"/>
+  <path id="path69" transform="translate(0,2)" d="m48 18a28 28 0 0 0-28 28 28 28 0 0 0 0.021484 0.41406 28 28 0 0 1 27.979-27.414 28 28 0 0 1 27.979 27.586 28 28 0 0 0 0.021484-0.58594 28 28 0 0 0-28-28zm8 17 0.019531 7h0.003907l-0.019532-6.9961-0.003906-0.003906zm-27.5 11.5-0.5 0.5 12 12v-1l-11.5-11.5zm39 0-11.496 11.496-0.003906 1.0039 12-12-0.5-0.5zm-27.5 3.5v1h16.02l0.003907-1h-16.023z" fill="#fff" stroke-width="4"/>
+ </g>
+</svg>

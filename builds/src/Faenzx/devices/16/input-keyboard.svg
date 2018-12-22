@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3204" x1="1" x2="15" y1="9" y2="9" gradientTransform="translate(-17,-2)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3643" stop-color="#b4b4b4" offset="0"/>
+   <stop id="stop3645" stop-color="#dcdcdc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3629" x2="29" y1="8" y2="8" gradientTransform="matrix(0,-1,1,0,0,16)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3330" offset="0"/>
+   <stop id="stop3333" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4315">
+   <stop id="stop4317" stop-color="#fff" offset="0"/>
+   <stop id="stop4319" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4252" x1="5" x2="9" y1="5" y2="5" gradientTransform="matrix(.75 0 0 .75 -9.75 .75)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4215-6" stop-color="#b0b0b0" offset="0"/>
+   <stop id="stop4217-2" stop-color="#f5f5f5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4254" x1="6" x2="9" y1="5" y2="5" gradientTransform="matrix(.787 0 0 .787 -10 -8.43)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4315"/>
+  <linearGradient id="linearGradient4266" x1="6" x2="9" y1="5" y2="5" gradientTransform="matrix(.822 0 0 .822 -10.3 -8.61)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4315"/>
+  <linearGradient id="linearGradient4278" x1="6" x2="9" y1="5" y2="5" gradientTransform="matrix(.894 0 0 .894 -10.8 -8.97)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4315"/>
+  <linearGradient id="linearGradient4306" x1="6" x2="9" y1="5" y2="5" gradientTransform="matrix(.858 0 0 .858 -10.5 -8.79)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4315"/>
+  <linearGradient id="linearGradient4342" x1="6" x2="9" y1="5" y2="5" gradientTransform="matrix(.966 0 0 .607 -11.3 -7.21)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4315"/>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect3196" transform="rotate(-90)" x="-16" width="16" height="16" rx="2" ry="2" fill="url(#linearGradient3204)"/>
+  <path id="rect4352" d="m2.36 1.36c-0.554 0-1 0.446-1 1v3.64c0 0.554 0.446 1 1 1h0.642v2c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1h-1v-2h1c0.554 0 1-0.446 1-1v-3.64c0-0.554-0.446-1-1-1z" color="#000000" opacity=".3"/>
+  <path id="rect2835" d="m0 14c0 1.11 0.892 2 2 2h12c1.11 0 2-0.892 2-2v-12c0-1.11-0.892-2-2-2h-12c-1.11 0-2 0.892-2 2v12zm0.969 0v-12c0-0.583 0.448-1.03 1.03-1.03h12c0.583 0 1.03 0.448 1.03 1.03v12c0 0.583-0.448 1.03-1.03 1.03h-12c-0.583 0-1.03-0.448-1.03-1.03z" fill="url(#linearGradient3629)" opacity=".4"/>
+  <path id="path2843" d="m2 0.969c-0.583 0-1.03 0.448-1.03 1.03v1c0-0.583 0.448-1.03 1.03-1.03h12c0.583 0 1.03 0.448 1.03 1.03v-1c0-0.583-0.448-1.03-1.03-1.03h-12z" fill="#fff" opacity=".35"/>
+  <g id="g4247" transform="translate(-1,-1)">
+   <rect id="rect4243" transform="rotate(-90)" x="-7" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" opacity=".5"/>
+   <rect id="rect3416" transform="rotate(-90)" x="-6" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" fill="url(#linearGradient4252)"/>
+   <rect id="rect4221" transform="matrix(0,-1,-1,0,0,0)" x="-5.29" y="-5.29" width="1.57" height="1.57" rx=".197" ry=".197" color="#000000" fill="url(#linearGradient4254)"/>
+  </g>
+  <g id="g4256" transform="translate(3,-1)">
+   <rect id="rect4258" transform="rotate(-90)" x="-7" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" opacity=".5"/>
+   <rect id="rect4260" transform="rotate(-90)" x="-6" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" fill="url(#linearGradient4252)"/>
+   <rect id="rect4262" transform="matrix(0,-1,-1,0,0,0)" x="-5.32" y="-5.32" width="1.64" height="1.64" rx=".206" ry=".206" color="#000000" fill="url(#linearGradient4266)"/>
+  </g>
+  <g id="g4268" transform="translate(7,-1)">
+   <rect id="rect4270" transform="rotate(-90)" x="-7" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" opacity=".5"/>
+   <rect id="rect4272" transform="rotate(-90)" x="-6" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" fill="url(#linearGradient4252)"/>
+   <rect id="rect4274" transform="matrix(0,-1,-1,0,0,0)" x="-5.39" y="-5.39" width="1.79" height="1.79" rx=".224" ry=".224" color="#000000" fill="url(#linearGradient4278)"/>
+  </g>
+  <g id="g4280" transform="translate(1,3)">
+   <rect id="rect4282" transform="rotate(-90)" x="-7" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" opacity=".5"/>
+   <rect id="rect4284" transform="rotate(-90)" x="-6" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" fill="url(#linearGradient4252)"/>
+   <rect id="rect4286" transform="matrix(0,-1,-1,0,0,0)" x="-5.36" y="-5.36" width="1.72" height="1.72" rx=".215" ry=".215" color="#000000" fill="url(#linearGradient4306)"/>
+  </g>
+  <g id="g4288" transform="translate(5,3)">
+   <rect id="rect4290" transform="rotate(-90)" x="-7" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" opacity=".5"/>
+   <rect id="rect4292" transform="rotate(-90)" x="-6" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" fill="url(#linearGradient4252)"/>
+   <rect id="rect4294" transform="matrix(0,-1,-1,0,0,0)" x="-5.39" y="-5.39" width="1.79" height="1.79" rx=".224" ry=".224" color="#000000" fill="url(#linearGradient4278)"/>
+  </g>
+  <g id="g4316" transform="translate(0,7)">
+   <rect id="rect4318" transform="rotate(-90)" x="-7" y="3" width="3" height="6" rx=".375" ry=".375" color="#000000" opacity=".5"/>
+   <rect id="rect4320" transform="rotate(-90)" x="-6" y="3" width="3" height="6" rx=".375" ry=".375" color="#000000" fill="url(#linearGradient4252)"/>
+   <rect id="rect4322" transform="matrix(0,-1,-1,0,0,0)" x="-5.47" y="-8.43" width="1.93" height="4.86" rx=".241" ry=".152" color="#000000" fill="url(#linearGradient4342)"/>
+  </g>
+  <g id="g4332" transform="translate(7,7)">
+   <rect id="rect4334" transform="rotate(-90)" x="-7" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" opacity=".5"/>
+   <rect id="rect4336" transform="rotate(-90)" x="-6" y="3" width="3" height="3" rx=".375" ry=".375" color="#000000" fill="url(#linearGradient4252)"/>
+   <rect id="rect4338" transform="matrix(0,-1,-1,0,0,0)" x="-5.32" y="-5.32" width="1.64" height="1.64" rx=".206" ry=".206" color="#000000" fill="url(#linearGradient4266)"/>
+  </g>
+  <path id="path4359" d="m1.34 6v1c0 0.554 0.446 1 1 1h0.656v-1h-0.656c-0.554 0-1-0.446-1-1zm12.7 0c0 0.554-0.446 1-1 1h-1v1h1c0.554 0 1-0.446 1-1v-1zm-12 7v1c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-1c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1z" color="#000000" fill="#fff" opacity=".35"/>
+ </g>
+</svg>

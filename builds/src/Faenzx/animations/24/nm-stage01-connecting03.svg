@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3640" x1="7.1118" x2="11.931" y1="11.956" y2="7.0472" gradientUnits="userSpaceOnUse">
+   <stop id="stop3604" stop-color="#fff" offset="0"/>
+   <stop id="stop3606" stop-color="#fff" stop-opacity=".66667" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3642" x1="6.9916" x2="12.055" y1="12.026" y2="6.9453" gradientTransform="matrix(0 1 -1 0 24 1028.4)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3621" stop-color="#fff" stop-opacity=".66667" offset="0"/>
+   <stop id="stop3623" stop-color="#fff" stop-opacity=".33333" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3644" x1="6.9222" x2="11.991" y1="11.905" y2="6.9284" gradientTransform="matrix(-1 0 0 -1 24 1052.4)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3631" stop-color="#fff" stop-opacity=".33333" offset="0"/>
+   <stop id="stop3633" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer2" display="none">
+  <rect id="rect3597" width="24" height="24" fill="#333"/>
+ </g>
+ <g id="layer1" transform="translate(0 -1028.4)">
+  <path id="path3590" transform="translate(0 1028.4)" d="m12 5c-3.866 0-7 3.134-7 7 0 3.866 3.134 7 7 7 3.866 0 7-3.134 7-7 0-3.866-3.134-7-7-7zm0 2c2.7614 0 5 2.2386 5 5 0 2.7614-2.2386 5-5 5-2.7614 0-5-2.2386-5-5 0-2.7614 2.2386-5 5-5z" fill="#fff" opacity=".1"/>
+  <g id="g3635" transform="matrix(.86603 .5 -.5 .86603 521.79 133.38)" opacity=".5">
+   <path id="path3595" transform="translate(0 1028.4)" d="m12 5c-3.866 0-7 3.134-7 7h2c0-2.7614 2.2386-5 5-5v-2z" fill="url(#linearGradient3640)"/>
+   <path id="path3615" d="m19 1040.4c0-3.866-3.134-7-7-7v2c2.7614 0 5 2.2386 5 5h2z" fill="url(#linearGradient3642)"/>
+   <path id="path3625" d="m12 1047.4c3.866 0 7-3.134 7-7h-2c0 2.7614-2.2386 5-5 5v2z" fill="url(#linearGradient3644)"/>
+  </g>
+ </g>
+</svg>

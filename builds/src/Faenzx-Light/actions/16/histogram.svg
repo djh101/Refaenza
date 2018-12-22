@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg30" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .72727 0 2.7273)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m4 0a1 1.0001 0 0 0-0.99609 0.91016l-0.91797 10.09h-0.08594a1.0001 1.0001 0 0 0-0.94922 0.6836l-1 3a1.0001 1.0001 0 0 0 0.94922 1.3164h14a1.0001 1.0001 0 0 0 1-1v-1a1.0001 1.0001 0 0 0-0.0508-0.3164l-1-3a1.0001 1.0001 0 0 0-0.2422-0.3906l-0.8047-0.80472-0.9316-3.7305a1.0001 1.0001 0 0 0-0.9707-0.75781h-1a1.0001 1.0001 0 0 0-1 1v3.3086l-1.0723-2.6797a1.0001 1.0001 0 0 0-0.92773-0.62891h-1.1523l-0.86133-5.1641a1.0001 1.0001 0 0 0-0.98633-0.83594h-1zm0 1h1l1 6h2l2 5 1-2v-4h1l1 4 1 1 1 3v1h-14l1-3h1l1-11z" fill="#fff" opacity=".05"/>
+ <path id="base" d="m4 1-1 11h-1l-1 3h14v-1l-1-3-1-1-1-4h-1v4l-1 2-2-5h-2l-1-6z" fill="url(#gr0)"/>
+ <path id="path15" d="m4 1-1 11h-1l-1 3h14v-1l-1-3-1-1-1-4h-1v4l-1 2-2-5h-2l-1-6h-1zm0.45703 0.5h0.11914l0.92969 5.582a0.50005 0.50005 0 0 0 0.49414 0.41797h1.6621l1.873 4.6855a0.50005 0.50005 0 0 0 0.91214 0.0372l1-2a0.50005 0.50005 0 0 0 0.0527-0.2227v-3.5h0.1094l0.9062 3.6211a0.50005 0.50005 0 0 0 0.1309 0.2324l0.916 0.916 0.9375 2.8125v0.418h-12.807l0.66797-2h0.63867a0.50005 0.50005 0 0 0 0.49805-0.4551l0.95898-10.545z" opacity=".3"/>
+ <path id="path20" d="m1.334 15-0.33398 1h14v-1h-13.666z" fill="#fff" opacity=".2"/>
+ <path id="path25" d="m4 1-1 11h-1l-1 3h0.33398l0.66602-2h1l1-11h1l1 6h2l2 5 1-2v-1l-1 2-2-5h-2l-1-6h-1zm7 5v1h1l1 4 1 1 1 3v-1l-1-3-1-1-1-4h-1z" opacity=".3"/>
+</svg>

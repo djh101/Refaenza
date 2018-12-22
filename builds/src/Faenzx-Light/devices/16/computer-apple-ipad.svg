@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg36" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata40">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .72727 0 2.7273)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m3.471 0c-1.347 0-2.469 1.122-2.469 2.469v11.061c0 1.35 1.122 2.47 2.469 2.47h9.059c1.35 0 2.47-1.12 2.47-2.47v-11.061c0-1.347-1.12-2.469-2.47-2.469h-9.059zm0 1h9.059c0.82 0 1.47 0.648 1.47 1.469v11.061c0 0.82-0.65 1.47-1.47 1.47h-9.059c-0.821 0-1.469-0.65-1.469-1.47v-11.061c0-0.821 0.648-1.469 1.469-1.469zm-0.469 1v11h9.998v-11h-9.998zm1 1h7.998v9h-7.998v-9z" fill="#fff" opacity=".05"/>
+ <path id="base" d="m3.47 1c-0.82099 0-1.4688 0.64776-1.4688 1.4688v11.062c0 0.82099 0.64776 1.4688 1.4688 1.4688h9.0625c0.82099 0 1.4688-0.64776 1.4688-1.4688v-11.062c0-0.82099-0.64776-1.4688-1.4688-1.4688zm-0.46875 1h10v11h-10z" fill="url(#gr0)"/>
+ <path id="path17" d="m3.471 1c-0.821 0-1.469 0.648-1.469 1.469v11.061c0 0.82 0.648 1.47 1.469 1.47h9.059c0.82 0 1.47-0.65 1.47-1.47v-11.061c0-0.821-0.65-1.469-1.47-1.469h-9.059zm-0.469 1h9.998v11h-9.998v-11zm10.498 11v0.53c0 0.56-0.41 0.97-0.97 0.97h-9.059c-0.558 0-0.969-0.41-0.969-0.97v-0.49a0.5 0.5 0 0 0 0.5 0.46h9.998a0.5 0.5 0 0 0 0.5-0.5z" opacity=".3"/>
+ <path id="path24" d="m3.471 2c-0.166 0-0.322 0.031-0.469 0.08v0.92h9.998v-0.918c-0.15-0.049-0.3-0.082-0.47-0.082h-9.059zm-1.469 11.53v1c0 0.82 0.648 1.47 1.469 1.47h9.059c0.82 0 1.47-0.65 1.47-1.47v-1c0 0.82-0.65 1.47-1.47 1.47h-9.059c-0.821 0-1.469-0.65-1.469-1.47z" fill="#fff" opacity=".2"/>
+ <path id="path31" d="m3.471 1c-0.821 0-1.469 0.648-1.469 1.469v1c0-0.656 0.415-1.196 1-1.389v-0.08h0.469 9.059 0.47v0.082c0.58 0.194 1 0.732 1 1.387v-1c0-0.821-0.65-1.469-1.47-1.469h-9.059zm-0.469 12v1h9.998v-1h-9.998z" opacity=".3"/>
+</svg>

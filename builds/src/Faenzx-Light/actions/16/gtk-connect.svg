@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg30" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .36363 0 6.3637)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m5 4c-1.1738 0-2.031 0.89896-2.291 2h-1.209a1 1.0001 0 0 0-1 1v2a1.0001 1.0001 0 0 0 1 1h1.209c0.26007 1.101 1.1172 2 2.291 2h2.5a1.0001 1.0001 0 0 0 0.5-0.1348 1.0001 1.0001 0 0 0 0.5 0.1348h2.5c1.2121 0 2.0178-0.9493 2.3105-2h1.1895a1.0001 1.0001 0 0 0 1-1v-2a1.0001 1.0001 0 0 0-1-1h-1.209c-0.2601-1.101-1.1172-2-2.291-2h-2-0.5a1.0001 1.0001 0 0 0-0.5 0.13477 1.0001 1.0001 0 0 0-0.5-0.13477h-0.5-2zm0 1h2 0.5v6h-2.5c-0.831 0-1.5-0.669-1.5-1.5v-0.5h-2v-2h2v-0.5c0-0.831 0.669-1.5 1.5-1.5zm3.5 0h0.5 2c0.831 0 1.5 0.669 1.5 1.5v0.5h2v2h-2v0.5c-0.0965 0.8254-0.669 1.5-1.5 1.5h-2.5v-6z" fill="#fff" opacity=".05"/>
+ <path id="base" d="m5 5c-0.831 0-1.5 0.669-1.5 1.5v0.5h-2v2h2v0.5c0 0.831 0.669 1.5 1.5 1.5h2.5v-6h-0.5zm3.5 0v6h2.5c0.831 0 1.4035-0.6746 1.5-1.5v-0.5h2v-2h-2v-0.5c0-0.831-0.669-1.5-1.5-1.5h-2z" fill="url(#gr0)"/>
+ <path id="path15" d="m5 5c-0.831 0-1.5 0.669-1.5 1.5v0.5h-2v2h2v0.5c0 0.831 0.669 1.5 1.5 1.5h2.5v-6h-0.5-2zm3.5 0v6h2.5c0.831 0 1.4035-0.6746 1.5-1.5v-0.5h2v-2h-2v-0.5c0-0.831-0.669-1.5-1.5-1.5h-2-0.5zm-3.5 0.5h2v5h-2c-0.56265 0-1-0.4374-1-1v-0.5a0.50005 0.50005 0 0 0-0.5-0.5h-1.5v-1h1.5a0.50005 0.50005 0 0 0 0.5-0.5v-0.5c0-0.56265 0.43735-1 1-1zm4 0h2c0.5626 0 1 0.43735 1 1v0.5a0.50005 0.50005 0 0 0 0.5 0.5h1.5v1h-1.5a0.50005 0.50005 0 0 0-0.5 0.5v0.45117c-0.0769 0.62353-0.4431 1.0488-1 1.0488h-2v-5z" opacity=".3"/>
+ <path id="path20" d="m1.5 9v1h2v0.5c0 0.831 0.669 1.5 1.5 1.5h2.5v-1h-2.5c-0.831 0-1.5-0.669-1.5-1.5v-0.5h-2zm11 0v0.5c-0.0965 0.8254-0.669 1.5-1.5 1.5h-2.5v1h2.5c0.831 0 1.4035-0.6746 1.5-1.5v-0.5h2v-1h-2z" fill="#fff" opacity=".2"/>
+ <path id="path25" d="m5 5c-0.831 0-1.5 0.669-1.5 1.5v0.5h-2v1h2v-0.5c0-0.831 0.669-1.5 1.5-1.5h2 0.5v-1h-0.5-2zm3.5 0v1h0.5 2c0.831 0 1.5 0.669 1.5 1.5v0.5h2v-1h-2v-0.5c0-0.831-0.669-1.5-1.5-1.5h-2-0.5z" opacity=".3"/>
+</svg>

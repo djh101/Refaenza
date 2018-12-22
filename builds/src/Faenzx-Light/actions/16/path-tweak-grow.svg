@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg30" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .27272 0 7.2728)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m8 5c-1.7153 0-2.63 0.7017-3.2988 1.1406-0.66883 0.43894-1.3429 0.82975-3.7129 0.85938a1 1.0001 0 0 0-0.98828 1v1a1.0001 1.0001 0 0 0 1 1c2.3667 0 3.0306 0.3889 3.6953 0.832s1.5825 1.168 3.3047 1.168 2.64-0.7249 3.3047-1.168c0.6646-0.4431 1.3286-0.832 3.6953-0.832a1.0001 1.0001 0 0 0 1-1v-1a1.0001 1.0001 0 0 0-0.9883-1c-2.37-0.02939-3.0441-0.42042-3.7129-0.85938-0.6688-0.43895-1.5835-1.1406-3.2988-1.1406zm0 1c3 0 2 1.938 7 2v1c-5 0-4 2-7 2s-2-2-7-2v-1c5-0.0625 4-2 7-2z" fill="#fff" opacity=".05"/>
+ <path id="base" d="m8 6c-3 0-2 1.9375-7 2v1c5 0 4 2 7 2s2-2 7-2v-1c-5-0.062-4-2-7-2z" fill="url(#gr0)"/>
+ <path id="path15" d="m8 6c-3 0-2 1.9375-7 2v1c5 0 4 2 7 2s2-2 7-2v-1c-5-0.062-4-2-7-2zm0 0.5c1.3923 0 1.6859 0.37563 2.4766 0.89453 0.7238 0.47508 1.8852 0.93667 4.0234 1.043v0.12109c-2.1361 0.08284-3.3023 0.54204-4.0273 1.0254-0.79275 0.52842-1.0838 0.91602-2.4727 0.91602s-1.68-0.3876-2.4727-0.91602c-0.72503-0.48335-1.8912-0.94255-4.0273-1.0254v-0.12109c2.1383-0.10649 3.2996-0.56796 4.0234-1.043 0.79058-0.51882 1.0842-0.89453 2.4766-0.89453z" opacity=".3"/>
+ <path id="path20" d="m1 9v1c5 0 4 2 7 2s2-2 7-2v-1c-5 0-4 2-7 2s-2-2-7-2z" fill="#fff" opacity=".2"/>
+ <path id="path25" d="m8 6c-3 0-2 1.9375-7 2v1c5-0.0625 4-2 7-2s2 1.938 7 2v-1c-5-0.062-4-2-7-2z" opacity=".3"/>
+</svg>

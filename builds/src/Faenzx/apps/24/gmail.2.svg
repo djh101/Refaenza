@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3335" x1="11.375" x2="11.375" y1="22" y2="-9.8173" gradientUnits="userSpaceOnUse">
+   <stop id="stop3330" offset="0"/>
+   <stop id="stop3333" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter3194" x="-.18" y="-.18" width="1.36" height="1.36" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3196" stdDeviation="1.2"/>
+  </filter>
+  <clipPath id="clipPath2849">
+   <rect id="rect2851" x="1" y="1" width="20" height="20" rx="2" ry="2" fill="#fff" fill-rule="evenodd"/>
+  </clipPath>
+  <linearGradient id="linearGradient2908">
+   <stop id="stop2910" stop-color="#1e1e1e" offset="0"/>
+   <stop id="stop2912" stop-color="#1e1e1e" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3849" x1="-3.0608" x2="-3.0608" y1="27.258" y2="7.2537" gradientTransform="translate(12.119 -7.2582)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3687" stop-color="#a11313" offset="0"/>
+   <stop id="stop3689" stop-color="#d31919" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3845" x1="11" x2="21" y1="19.5" y2="19.5" gradientTransform="translate(1,-1)" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+   <stop id="stop3833" stop-color="#fff" offset="0"/>
+   <stop id="stop3821" stop-color="#fff" stop-opacity=".49804" offset=".75"/>
+   <stop id="stop3835" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3124" x1="10" x2="10" y1="1" y2="16" gradientTransform="translate(1,-1)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3825" stop-color="#fff" offset="0"/>
+   <stop id="stop3829" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4040" x1="10" x2="10" y1="20" y2="2" gradientTransform="translate(31,-1)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3687-9" stop-color="#a10000" offset="0"/>
+   <stop id="stop3689-0" stop-color="#d10808" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3225" x1="-3.0608" x2="-3.0608" y1="27.258" y2="7.2537" gradientTransform="translate(12.119 22.742)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3189" stop-color="#dcdcdc" offset="0"/>
+   <stop id="stop3191" stop-color="#f0f0f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3227" x1="11" x2="11" y1="14" y2="1" gradientTransform="translate(1,29)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3637" stop-color="#e6e6e6" offset="0"/>
+   <stop id="stop3639" stop-color="#f0f0f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3229" x1="11" x2="11" y1="15" y2="4.3779" gradientTransform="translate(1,29)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2908"/>
+  <linearGradient id="linearGradient3233" x1="11" x2="11" y1="15" y2="5" gradientTransform="matrix(1,0,0,-1,1,52)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2908"/>
+  <clipPath id="clipPath4045">
+   <path id="path4047" d="m6 31 6 6 6-6zm-1 4v14h14v-14l-7 7z" fill="#f0f"/>
+  </clipPath>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0,2)">
+  <g id="g3337" transform="translate(1,-1)">
+   <rect id="rect3371" x=".5" y=".5" width="21" height="21.5" rx="2.5" ry="2.5" fill="url(#linearGradient3335)" opacity=".3"/>
+   <rect id="rect2553" x="1" y="2" width="20" height="20" rx="2.381" ry="2.3256" opacity=".5"/>
+  </g>
+  <rect id="rect3173" x="2" width="20" height="20" rx="2" ry="2" fill="url(#linearGradient3849)" fill-rule="evenodd"/>
+  <path id="rect3050" d="m4 0c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-16zm0 1.0312h16c0.5497 0 0.96875 0.41905 0.96875 0.96875v16c0 0.5497-0.41905 0.96875-0.96875 0.96875h-16c-0.5497 0-0.96875-0.41905-0.96875-0.96875v-16c0-0.5497 0.41905-0.96875 0.96875-0.96875z" fill="url(#linearGradient3124)" fill-rule="evenodd" opacity=".25"/>
+  <path id="path3235" d="m4 20c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-16z" fill="url(#linearGradient3845)" fill-rule="evenodd" opacity=".2"/>
+  <g id="g3219" transform="translate(0,-30)" clip-path="url(#clipPath4045)">
+   <rect id="rect3200" x="2" y="30" width="20" height="20" rx="2" ry="2" fill="url(#linearGradient3225)" fill-rule="evenodd"/>
+   <path id="path3202" d="m4 30c-1.108 0-2 0.892-2 2v2l10 10 10-10v-2c0-1.108-0.892-2-2-2h-16z" fill="url(#linearGradient3227)"/>
+   <path id="path3204" d="m2 33.312v1.375l9.6562 9.6562 0.34375 0.375 0.34375-0.375 9.6562-9.6562v-1.375l-10 10-10-10z" color="#000000" fill="url(#linearGradient3229)" opacity=".5" style="block-progression:tb;text-indent:0;text-transform:none"/>
+   <path id="path3206" d="m7.8125 40.5-5.8125 5.8125v1.375l6.5-6.5-0.6875-0.6875zm8.375 0-0.6875 0.6875 6.5 6.5v-1.375l-5.8125-5.8125z" color="#000000" fill="url(#linearGradient3233)" opacity=".5" style="block-progression:tb;text-indent:0;text-transform:none"/>
+  </g>
+ </g>
+ <g id="layer2" transform="translate(0,2)" display="none">
+  <rect id="rect2410" transform="translate(1,-1)" x="3" y="3" width="16" height="16" rx="2" ry="2" clip-path="url(#clipPath2849)" display="inline" fill="#fff" filter="url(#filter3194)" opacity=".15"/>
+ </g>
+ <g id="layer3" transform="translate(0,2)">
+  <path id="rect3210" d="m34.5 1c-0.831 0-1.5 0.669-1.5 1.5v15c0 0.831 0.669 1.5 1.5 1.5h1.5v-13l6 6 6-6v13h1.5c0.831 0 1.5-0.669 1.5-1.5v-15c0-0.831-0.669-1.5-1.5-1.5h-1.5l-6 6-6-6h-1.5z" color="#000000" fill="url(#linearGradient4040)"/>
+  <path id="path4003" d="m36 5v1l6 6 6-6v-1l-6 6-6-6zm-3 11.5v1c0 0.831 0.669 1.5 1.5 1.5h1.5v-1h-1.5c-0.831 0-1.5-0.669-1.5-1.5zm18 0c0 0.831-0.669 1.5-1.5 1.5h-1.5v1h1.5c0.831 0 1.5-0.669 1.5-1.5v-1z" color="#000000" fill="#800000"/>
+  <path id="path4012" d="m34.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h1.5l6 6 6-6h1.5c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-1.5l-6 6-6-6h-1.5z" color="#000000" fill="#fff" opacity=".1"/>
+ </g>
+</svg>

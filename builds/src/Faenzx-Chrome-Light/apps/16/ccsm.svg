@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg36" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata40">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <radialGradient id="gr0" cx="9" cy="10" r="11" gradientTransform="matrix(1 0 0 .45454 0 5.4546)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-opacity=".23529" offset="0"/>
+   <stop id="stop4" stop-opacity=".54902" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path id="path9" d="m2.949 2.502a1 1 0 0 0-0.949 0.998v1 6.84 1.66a1 1 0 0 0 1.834 0.55l0.906-1.37 0.108-0.16 1.22 3.05 0.125 0.31a1 1 0 0 0 0.928 0.63h0.344 2.031 0.884a1 1 0 0 0 0.86-1.5l-0.44-0.75-2.267-3.73h0.192 1.475a1 1 0 0 0 0.61-1.788l-1.156-0.904a1 1 0 0 0-9e-3 0l-5.25-4-0.784-0.596a1 1 0 0 0-0.656-0.199l-6e-3 -0.041zm0.051 0.998 0.781 0.594 5.25 4 1.159 0.906h-1.471-1.969l3.188 5.25 0.432 0.75h-0.87-2.031-0.344l-0.125-0.31-1.938-4.846-1.156 1.786-0.906 1.37v-1.66-6.84-1z" fill="#fff" opacity=".05"/>
+ <path id="base" d="m3 3.5v9.5l0.90625-1.375 1.1562-1.7812 2.0625 5.1563h3.25l-0.4375-0.75-3.1875-5.25h3.4376l-1.1562-0.90625-5.25-4z" fill="url(#gr0)"/>
+ <path id="path17" d="m3 3.5v1 6.84 1.66l0.906-1.37 1.156-1.786 1.938 4.846 0.125 0.31h0.344 2.031 0.87l-0.432-0.75-3.188-5.25h1.969 1.471l-1.159-0.906-5.25-4-0.781-0.594zm0.5 1.008 5.219 3.986 0.01 0.01h-0.02-1.969a0.5 0.5 0 0 0-0.428 0.76l3.182 5.236h-2.031l-1.936-4.838a0.5 0.5 0 0 0-0.884-0.09l-1.143 1.758v-6.822z" opacity=".3"/>
+ <path id="path24" d="m6.75 9 0.607 1h1.362 1.471l-1.159-0.906-0.123-0.094h-0.189-1.969zm-1.688 0.844-1.156 1.786-0.906 1.37v1l0.906-1.37 1.156-1.79 1.938 4.85 0.125 0.31h0.344 2.031 0.87l-0.432-0.75-0.153-0.25h-0.285-2.031-0.344l-0.125-0.31-1.938-4.846z" fill="#fff" opacity=".2"/>
+ <path id="path31" d="m3 3.5v1l0.781 0.594 5.127 3.906h1.282l-1.159-0.906-5.25-4-0.781-0.594zm3.75 6.5 3.035 5h0.585l-0.432-0.75-2.581-4.25h-0.607z" opacity=".3"/>
+</svg>

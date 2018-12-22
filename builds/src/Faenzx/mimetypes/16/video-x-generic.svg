@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2897" x1="9.0575" x2="9.0575" y1="10.203" y2="-19.304" gradientTransform="translate(-.49972 5.3007)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3330-6" offset="0"/>
+   <stop id="stop3333-8" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3767" x1="1" x2="16.956" y1="9" y2="9" gradientTransform="translate(-17,-2)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3189-7" offset="0"/>
+   <stop id="stop3191-0" stop-color="#515151" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3720">
+   <stop id="stop3722" stop-color="#efad51" offset="0"/>
+   <stop id="stop3724" stop-color="#d56616" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3783" cx="64" cy="64" r="42" gradientTransform="matrix(.15451 4.9016e-8 -4.4051e-8 .12002 -1.8885 .085029)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3720"/>
+  <radialGradient id="radialGradient3810" cx="64" cy="64" r="42" gradientTransform="matrix(.15451 4.9016e-8 -4.4051e-8 .12002 -1.8885 9.085)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3720"/>
+  <radialGradient id="radialGradient3817" cx="64" cy="64" r="42" gradientTransform="matrix(.15451 -4.9016e-8 -4.4051e-8 -.12002 -1.8885 6.9462)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3720"/>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect3196" transform="rotate(-90)" x="-16" width="16" height="16" rx="2" ry="2" fill="url(#linearGradient3767)"/>
+  <path id="path3815" d="m3.25 3c-0.1319 0-0.25-0.096116-0.25-0.21875v-2.75h10v2.75c0 0.12263-0.1181 0.21875-0.25 0.21875h-9.5z" fill="url(#radialGradient3817)" fill-rule="evenodd"/>
+  <path id="path3808" d="m3.25 13.031c-0.1319 0-0.25 0.096116-0.25 0.21875v2.75h10v-2.75c0-0.12263-0.1181-0.21875-0.25-0.21875h-9.5z" fill="url(#radialGradient3810)" fill-rule="evenodd"/>
+  <path id="rect2410" d="m2 0c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2h-12zm0.5 1h11c0.831 0 1.5 0.669 1.5 1.5v11c0 0.831-0.669 1.5-1.5 1.5h-11c-0.831 0-1.5-0.669-1.5-1.5v-11c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient2897)" opacity=".4"/>
+  <path id="rect3770" d="m2.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h11c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-11z" fill="#fff" opacity=".2"/>
+  <rect id="rect3761" x="1" y="1" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3763" x="1" y="3" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3765" x="1" y="5" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3767" x="1" y="7" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3769" x="1" y="9" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3771" x="1" y="11" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3773" x="1" y="13" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3775" x="14" y="1" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3777" x="14" y="3" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3779" x="14" y="5" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3781" x="14" y="7" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3783" x="14" y="9" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3785" x="14" y="11" width="1" height="1" color="#000000" fill="#fff"/>
+  <rect id="rect3787" x="14" y="13" width="1" height="1" color="#000000" fill="#fff"/>
+  <path id="path3343" d="m3.2381 4.0342c-0.1319 0-0.2381 0.098727-0.2381 0.22136v7.5208c0 0.12264 0.10619 0.22136 0.2381 0.22136h9.5238c0.1319 0 0.2381-0.098726 0.2381-0.22136v-7.5208c0-0.12263-0.10619-0.22136-0.2381-0.22136h-9.5238z" fill="url(#radialGradient3783)" fill-rule="evenodd"/>
+ </g>
+</svg>

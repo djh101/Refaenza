@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="gr0" x1="8" x2="8" y1="2" y2="14" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ebebeb" offset="0"/>
+   <stop stop-color="#aaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m9.96 1a1 1 0 0 0-0.959 1v1h-7a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h7v1a1 1 0 0 0 1 1h-2a1 1 0 0 0-0.5 0.135 1 1 0 0 0-0.5-0.135h-2a1 1 0 0 0-0.5 0.137 1 1 0 0 0-0.502-0.137h-2a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h2a1 1 0 0 0 0.5-0.137 1 1 0 0 0 0.502 0.137h2a1 1 0 0 0 0.5-0.135 1 1 0 0 0 0.5 0.135h2a1 1 0 0 0 0.5-0.135 1 1 0 0 0 0.5 0.135h2a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1h-2a1 1 0 0 0-0.5 0.135 1 1 0 0 0-0.473-0.135 1 1 0 0 0 0.5-0.152l4-2.5a1 1 0 0 0 0-1.7l-4-2.5a1 1 0 0 0-0.57-0.152zm0.041 1 4 2.5-4 2.5v-2h-8v-1h8v-2zm-8 7h2v1h-2v-1zm3 0h2v1h-2v-1zm3 0h2v1h-2v-1zm3 0h2v1h-2v-1zm-9 3a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1h-12zm0 1h12v1h-12v-1z" opacity=".25"/>
+ <path d="m10 2v2h-8v1h8v2l4-2.5-4-2.5zm-8 7v1h2v-1h-2zm3 0v1h2v-1h-2zm3 0v1h2v-1h-2zm3 0v1h2v-1h-2zm-9 4v1h12v-1h-12z" fill="url(#gr0)"/>
+ <path d="m2 5v1h8v-1h-8zm11.2 0-3.2 2v1l4-2.5-0.801-0.5zm-11.2 5v1h2v-1h-2zm3 0v1h2v-1h-2zm3 0v1h2v-1h-2zm3 0v1h2v-1h-2zm-9 4v1h12v-1h-12z" opacity=".45"/>
+ <path d="m10 2v1l3.2 2 0.801-0.5-4-2.5zm-8 2v1h8v-1h-8zm0 5v1h2v-1h-2zm3 0v1h2v-1h-2zm3 0v1h2v-1h-2zm3 0v1h2v-1h-2zm-9 4v1h12v-1h-12z" fill="#fff" opacity=".6"/>
+</svg>
